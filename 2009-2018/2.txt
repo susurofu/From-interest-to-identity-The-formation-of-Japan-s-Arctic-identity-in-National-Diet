@@ -1,0 +1,5 @@
+Topic 0: 日本 | ロシア | 中国 | 問題 | 世界 | 航路 | 関係 | 非常 | 安全 | 重要
+Topic 1: 北極 | 研究 | 観測 | 政策 | 科学 | 航路 | 我が国 | 海洋 | 国際 | 海氷
+
+
+<coroutine object Translator.translate at 0x308afd620>

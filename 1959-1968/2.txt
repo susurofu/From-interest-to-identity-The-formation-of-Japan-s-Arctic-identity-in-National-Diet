@@ -1,0 +1,5 @@
+Topic 0: 航空 | 路線 | 東京 | 日本 | 欧州 | 国際 | 現在 | 経由 | 非常 | 協定
+Topic 1: 観測 | 実験 | 原子 | 南極 | 基地 | 日本 | 問題 | アメリカ | ソ連 | 研究
+
+
+<coroutine object Translator.translate at 0x1772f38b0>

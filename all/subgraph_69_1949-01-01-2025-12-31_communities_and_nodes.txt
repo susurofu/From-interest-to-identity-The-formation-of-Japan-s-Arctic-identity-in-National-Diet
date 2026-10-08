@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+椎名悦三郎
+
+Community 2 (1 nodes):
+永末英一
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  椎名悦三郎: 1.0000
+  永末英一: 1.0000
+
+Betweenness Centrality (Top 2):
+  椎名悦三郎: 0.0000
+  永末英一: 0.0000
+
+Closeness Centrality (Top 2):
+  椎名悦三郎: 1.0000
+  永末英一: 1.0000
+
+Eigenvector Centrality (Top 2):
+  椎名悦三郎: 0.7071
+  永末英一: 0.7071

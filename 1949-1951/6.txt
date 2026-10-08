@@ -1,0 +1,14 @@
+Topic 0: 政府 | 明らか | 帰還 | 引揚 | 日本 | 国民 | 犠牲 | 問題 | ソ連 | 発表
+Topic 1: 漁区 | 漁船 | 拡張 | 近く | 日本 | ライン | マツカーサー | 総司令 | 通り | 以つ
+Topic 2: 参考 | 日高 | 抽象 | 揚げる | バイカル | 方面 | 聞く | 残留 | カムチヤツカ | 抑留
+Topic 3: 状況 | 上木戸 | 証人 | 途中 | 入る | ちよつと | 発言 | 岡元 | 義人 | ナリンスク
+Topic 4: 見込 | 研究 | 学術 | 濕度 | 湿度 | 高良 | 余地 | 地質 | 尾瀬沼 | 寒い
+Topic 5: 日本 | 安定 | 克服 | 状態 | 停止 | 貿易 | 上る | 物価 | 輸出 | 或いは
+
+
+Topic 0: Government | Clear | Return | Retirement | Japan | People | Sacrifice | Issues | Soviet Union | Announcement
+Topic 1: Fishing Areas | Fishing Boats | Expansion | Nearby | Japan | Line | Matsukathur | Commander | Street |
+Topic 2: Reference | Hidaka | Abstract | Fried | Baikal | Area | Listen | Remaining | Kamchiyatsuka | Deterrence
+Topic 3: Situation | Kamigido | Witness | Intermediate | Enter | Chiyotsuto | Comment | Okamoto | Yoshito | Narinsk
+Topic 4: Prospect | Research | Academic | Heatness | Humidity | Takara | Room | Geology | Ozemun | Cold
+Topic 5: Japan | Stability | Overcoming | Condition | Stop | Trade | Up | Price | Export | Or

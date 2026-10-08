@@ -1,0 +1,29 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+荒井聰
+
+Community 2 (2 nodes):
+西村明宏, 山口壯
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 3):
+  荒井聰: 1.0000
+  西村明宏: 1.0000
+  山口壯: 1.0000
+
+Betweenness Centrality (Top 3):
+  荒井聰: 0.0000
+  西村明宏: 0.0000
+  山口壯: 0.0000
+
+Closeness Centrality (Top 3):
+  荒井聰: 1.0000
+  西村明宏: 1.0000
+  山口壯: 1.0000
+
+Eigenvector Centrality (Top 3):
+  荒井聰: 0.5774
+  西村明宏: 0.5774
+  山口壯: 0.5774

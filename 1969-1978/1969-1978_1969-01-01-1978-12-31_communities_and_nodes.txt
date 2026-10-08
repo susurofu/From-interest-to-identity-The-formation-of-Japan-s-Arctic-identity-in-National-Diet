@@ -1,0 +1,84 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+Chiba Shichirou
+
+Community 2 (1 nodes):
+Ohno Yoshiharu
+
+Community 3 (2 nodes):
+Tagaya Shinen, 山川新二郎
+
+Community 4 (2 nodes):
+林義郎, Yamaguchi Seiya
+
+Community 5 (2 nodes):
+井川克一, 村田敬次郎
+
+Community 6 (2 nodes):
+北村暢, 高島益郎
+
+Community 7 (2 nodes):
+野中英二, 柄谷道一
+
+Community 8 (2 nodes):
+藤範晃雄, 津川武一
+
+Community 9 (2 nodes):
+近江巳記夫, 渋谷敬三
+
+Community 10 (2 nodes):
+高橋浩一郎, 相沢武彦
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Chiba Shichirou: 0.0588
+  Ohno Yoshiharu: 0.0588
+  Tagaya Shinen: 0.0588
+  山川新二郎: 0.0588
+  Yamaguchi Seiya: 0.0588
+  林義郎: 0.0588
+  井川克一: 0.0588
+  村田敬次郎: 0.0588
+  北村暢: 0.0588
+  高島益郎: 0.0588
+
+Betweenness Centrality (Top 10):
+  Chiba Shichirou: 0.0000
+  Ohno Yoshiharu: 0.0000
+  Tagaya Shinen: 0.0000
+  山川新二郎: 0.0000
+  Yamaguchi Seiya: 0.0000
+  林義郎: 0.0000
+  井川克一: 0.0000
+  村田敬次郎: 0.0000
+  北村暢: 0.0000
+  高島益郎: 0.0000
+
+Closeness Centrality (Top 10):
+  Chiba Shichirou: 0.0588
+  Ohno Yoshiharu: 0.0588
+  Tagaya Shinen: 0.0588
+  山川新二郎: 0.0588
+  Yamaguchi Seiya: 0.0588
+  林義郎: 0.0588
+  井川克一: 0.0588
+  村田敬次郎: 0.0588
+  北村暢: 0.0588
+  高島益郎: 0.0588
+
+Eigenvector Centrality (Top 10):
+  Chiba Shichirou: 0.2357
+  Ohno Yoshiharu: 0.2357
+  Tagaya Shinen: 0.2357
+  山川新二郎: 0.2357
+  Yamaguchi Seiya: 0.2357
+  林義郎: 0.2357
+  井川克一: 0.2357
+  村田敬次郎: 0.2357
+  北村暢: 0.2357
+  高島益郎: 0.2357
+
+### Nodes Concentration ###
+Concentration: 0.23

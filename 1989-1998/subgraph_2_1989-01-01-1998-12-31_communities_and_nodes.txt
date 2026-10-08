@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+中村正三郎
+
+Community 2 (1 nodes):
+戸田菊雄
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  中村正三郎: 1.0000
+  戸田菊雄: 1.0000
+
+Betweenness Centrality (Top 2):
+  中村正三郎: 0.0000
+  戸田菊雄: 0.0000
+
+Closeness Centrality (Top 2):
+  中村正三郎: 1.0000
+  戸田菊雄: 1.0000
+
+Eigenvector Centrality (Top 2):
+  中村正三郎: 0.7071
+  戸田菊雄: 0.7071

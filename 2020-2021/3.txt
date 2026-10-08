@@ -1,0 +1,8 @@
+Topic 0: 海洋 | 日本 | 北極 | 科学 | 国際 | 観測 | 研究 | 環境 | 調査 | 非常
+Topic 1: 教育 | 研究 | 推進 | 大学 | 学校 | スポーツ | 支援 | 文化 | 充実 | 育成
+Topic 2: lng | 航路 | 北極 | 輸送 | ロシア | リスク | けど | 事業 | 積む | かえる
+
+
+Topic 0: Ocean | Japan | Arctic | Science | International | Observation | Research | Environment | Survey | Emergency
+Topic 1: Education | Research | Promotion | University | School | Sports | Support | Culture | Enrichment | Development
+Topic 2: lng | Route | Arctic | Transport | Russia | Risk | But | Business | Loading | Frog

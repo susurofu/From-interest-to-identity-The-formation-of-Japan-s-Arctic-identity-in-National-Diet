@@ -1,0 +1,29 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+塩川鉄也
+
+Community 2 (2 nodes):
+玉城デニー, 鎌形浩史
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 3):
+  塩川鉄也: 1.0000
+  玉城デニー: 1.0000
+  鎌形浩史: 1.0000
+
+Betweenness Centrality (Top 3):
+  塩川鉄也: 0.0000
+  玉城デニー: 0.0000
+  鎌形浩史: 0.0000
+
+Closeness Centrality (Top 3):
+  塩川鉄也: 1.0000
+  玉城デニー: 1.0000
+  鎌形浩史: 1.0000
+
+Eigenvector Centrality (Top 3):
+  塩川鉄也: 0.5774
+  玉城デニー: 0.5774
+  鎌形浩史: 0.5774

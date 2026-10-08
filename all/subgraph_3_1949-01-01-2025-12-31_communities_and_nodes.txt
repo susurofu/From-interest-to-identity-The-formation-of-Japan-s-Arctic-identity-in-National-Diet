@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+野坂浩賢
+
+Community 2 (12 nodes):
+有馬朗人, 遠藤哲也, 矢田部理, 神崎武法, 村山喜一, 松井隆, 稲村稔夫, 小川仁一, 上田利正, 辻一彦, 松前達郎, 斉藤節
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  遠藤哲也: 0.7500
+  松井隆: 0.6667
+  辻一彦: 0.4167
+  稲村稔夫: 0.3333
+  村山喜一: 0.3333
+
+Betweenness Centrality (Top 5):
+  遠藤哲也: 0.4697
+  松井隆: 0.3788
+  辻一彦: 0.1667
+  野坂浩賢: 0.0000
+  稲村稔夫: 0.0000
+
+Closeness Centrality (Top 5):
+  遠藤哲也: 0.8000
+  松井隆: 0.7500
+  辻一彦: 0.6316
+  稲村稔夫: 0.6000
+  村山喜一: 0.6000
+
+Eigenvector Centrality (Top 5):
+  遠藤哲也: 0.4979
+  松井隆: 0.4409
+  辻一彦: 0.3403
+  稲村稔夫: 0.3285
+  村山喜一: 0.3285

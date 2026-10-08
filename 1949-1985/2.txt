@@ -1,0 +1,5 @@
+Topic 0: 日本 | 問題 | 航空 | 非常 | 観測 | 原子 | アメリカ | 国際 | 気象 | 現在
+Topic 1: 石油 | ドーム | カナダ | 契約 | 公団 | 会社 | ドル | 資金 | 開発 | 探鉱
+
+
+<coroutine object Translator.translate at 0x353c267a0>

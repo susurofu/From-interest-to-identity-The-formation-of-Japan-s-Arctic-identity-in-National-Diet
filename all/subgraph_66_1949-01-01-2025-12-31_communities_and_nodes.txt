@@ -1,0 +1,33 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+辻章男
+
+Community 2 (3 nodes):
+林坦, 永野護, 相澤重明
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 4):
+  相澤重明: 1.0000
+  林坦: 0.6667
+  永野護: 0.6667
+  辻章男: 0.3333
+
+Betweenness Centrality (Top 4):
+  相澤重明: 0.6667
+  辻章男: 0.0000
+  林坦: 0.0000
+  永野護: 0.0000
+
+Closeness Centrality (Top 4):
+  相澤重明: 1.0000
+  林坦: 0.7500
+  永野護: 0.7500
+  辻章男: 0.6000
+
+Eigenvector Centrality (Top 4):
+  相澤重明: 0.6116
+  林坦: 0.5227
+  永野護: 0.5227
+  辻章男: 0.2818

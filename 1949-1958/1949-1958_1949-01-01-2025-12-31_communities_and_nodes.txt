@@ -1,0 +1,274 @@
+### Communities Detected ###
+
+Community 1 (57 nodes):
+平将明, 下川眞樹太, 石井啓一, 長岡寛介, 上田康治, 黄川田仁志, 山上信吾, 青山大人, 井上一徳, 井上哲士, 木戸口英司, 柴山昌彦, 鈴木哲, 伊達忠一, 岸田文雄, 前田哲, うえの賢一郎, 寺田学, 齊藤純, 重田雅史, 小西洋之, 若宮健嗣, 猪口邦子, 島尻安伊子, 遠山清彦, 兵頭慎治, 左藤章, 大林正典, 鉢呂吉雄, 大島理森, アントニオ猪木, あべ俊子, 橋田俊彦, 高瀬弘美, 会議録情報, 松川るい, 野上浩太郎, 杉本和巳, 冨岡勉, 向大野新治, 石井苗子, 吉良州司, 津村啓介, 小熊慎司, 北村茂男, 渡邉美樹, 河野太郎, 安藤俊英, 伊藤渉, 岡村直子, 山際大志郎, 鷲尾英一郎, 山本ともひろ, 松島みどり, 杉田水脈, 下斗米伸夫, 西出則武
+
+Community 2 (32 nodes):
+赤羽一嘉, 榎本浩之, 濱崎和也, 西脇隆俊, 大野泰正, 斉藤鉄夫, 熊谷裕人, 田中茂, 上田清司, 高良鉄美, 武井俊輔, 伊藤岳, 志水史雄, 三浦信祐, 田島麻衣子, 羽尾一郎, 山田修路, 角南篤, 室井邦彦, 中西祐介, 市川恵一, 福井照, 大坪新一郎, 石田優, 藤田耕三, 柳ヶ瀬裕文, 海谷厚志, 新妻秀規, 大山真未, 池島大策, 川田龍平, 浜地雅一
+
+Community 3 (4 nodes):
+松沢成文, 神ノ田昌博, 上川陽子, 盛山正仁
+
+Community 4 (13 nodes):
+稲村稔夫, 遠藤哲也, 有馬朗人, 神崎武法, 上田利正, 松前達郎, 小川仁一, 野坂浩賢, 松井隆, 矢田部理, 辻一彦, 村山喜一, 斉藤節
+
+Community 5 (4 nodes):
+生川浩史, 上野通子, 山下芳生, 尾身朝子
+
+Community 6 (2 nodes):
+並木正芳, 工藤智規
+
+Community 7 (5 nodes):
+徳地秀士, 中山泰秀, 長田太, 伊佐進一, 新美潤
+
+Community 8 (2 nodes):
+中山福藏, 重光葵
+
+Community 9 (3 nodes):
+河野洋平, 大野つや子, 中曽根弘文
+
+Community 10 (2 nodes):
+中村正三郎, 戸田菊雄
+
+Community 11 (8 nodes):
+原田尚美, 亀山康子, 秋元一峰, 赤松健, 伊波洋一, 大椿ゆうこ, 串田誠一, 岩渕友
+
+Community 12 (14 nodes):
+萩生田光一, 高橋はるみ, 山田太郎, 横山信一, 原克彦, 末松信介, 徳田修一, 片山大介, 池田佳隆, 林芳正, 丹羽秀樹, 古賀友一郎, 伊東信久, 加藤進
+
+Community 13 (3 nodes):
+久保三郎, 今井榮文, 田村幸策
+
+Community 14 (10 nodes):
+藤波孝生, 勝谷保, 磯田晋, 井上一成, 高橋達直, 和田静夫, 和田敏信, 松尾邦彦, 草川昭三, 後藤田正晴
+
+Community 15 (2 nodes):
+緑川貴士, 井上信治
+
+Community 16 (2 nodes):
+村田敬次郎, 井川克一
+
+Community 17 (2 nodes):
+小林鷹之, 佐伯浩治
+
+Community 18 (3 nodes):
+岡良一, 杠文吉, 佐藤尚武
+
+Community 19 (5 nodes):
+増原義剛, 高村正彦, 赤松正雄, 浜田昌良, 佐藤正久
+
+Community 20 (2 nodes):
+湯山勇, 佐藤観樹
+
+Community 21 (2 nodes):
+保利茂, 益谷秀次
+
+Community 22 (3 nodes):
+西山登紀子, 水野誠一, 加納時男
+
+Community 23 (3 nodes):
+加藤シヅエ, 栃内一彦, 小林進
+
+Community 24 (4 nodes):
+加藤修一, 小川光吉, 稲川泰弘, 石垣一夫
+
+Community 25 (7 nodes):
+宮本徹, 小松弥生, 馳浩, 務台俊介, 水嶋光一, 加藤由起夫, 田中正朗
+
+Community 26 (2 nodes):
+北原秀雄, 松尾静磨
+
+Community 27 (4 nodes):
+相沢武彦, 高橋浩一郎, 田中恒利, 北村俊男
+
+Community 28 (2 nodes):
+高島益郎, 北村暢
+
+Community 29 (3 nodes):
+田野瀬太道, 千原由幸, 宮本岳志
+
+Community 30 (3 nodes):
+大野義晴, 大野義輝, 千葉七郎
+
+Community 31 (2 nodes):
+和田義明, 南亮
+
+Community 32 (3 nodes):
+村山雅美, 原茂, 本多敏治
+
+Community 33 (3 nodes):
+古市圭治, 東祥三, 鈴木久
+
+Community 34 (3 nodes):
+吉川ゆうみ, 平垣内久隆, 山田吉彦
+
+Community 35 (5 nodes):
+梶原茂嘉, 松本七郎, 吉田法晴, 曾禰益, 吉行市太郎
+
+Community 36 (2 nodes):
+河村武和, 吉田達男
+
+Community 37 (2 nodes):
+吉野正芳, 植松恵美子
+
+Community 38 (2 nodes):
+坂本哲志, 江藤拓
+
+Community 39 (2 nodes):
+坂田俊文, 寺本俊彦
+
+Community 40 (5 nodes):
+末次克彦, 岩動道行, 神津信男, 塩出啓典, 工藤晃
+
+Community 41 (3 nodes):
+鎌形浩史, 玉城デニー, 塩川鉄也
+
+Community 42 (2 nodes):
+山川新二郎, 多賀谷真稔
+
+Community 43 (7 nodes):
+石田昌宏, 茂木敏充, 梶山弘志, 大西健介, 浅田均, 本多平直, 磯崎仁彦
+
+Community 44 (9 nodes):
+山縣宣彦, 香田洋二, 瀧口敬二, 金子洋一, 滝口敬二, 斎藤洋明, 太田昭宏, 津島淳, 関芳弘
+
+Community 45 (2 nodes):
+宇野宗佑, 間野忠
+
+Community 46 (2 nodes):
+新藤義孝, 安倍晋三
+
+Community 47 (2 nodes):
+藤巻健史, 定光裕樹
+
+Community 48 (2 nodes):
+能登勇, 小島慶三
+
+Community 49 (2 nodes):
+小川新一郎, 豊島格
+
+Community 50 (2 nodes):
+小此木八郎, 森山浩行
+
+Community 51 (2 nodes):
+小泉悠, 広瀬佳一
+
+Community 52 (2 nodes):
+小泉進次郎, 武藤容治
+
+Community 53 (3 nodes):
+末広まきこ, 山中あき子, 有働正治
+
+Community 54 (3 nodes):
+西村明宏, 山口壯, 荒井聰
+
+Community 55 (2 nodes):
+山口誠哉, 林義郎
+
+Community 56 (2 nodes):
+松本洋平, 山岡達丸
+
+Community 57 (2 nodes):
+芥川輝孝, 山本伊三郎
+
+Community 58 (2 nodes):
+藤田幸久, 山本良一
+
+Community 59 (4 nodes):
+岩佐恵美, 福本潤一, 岡崎トミ子, 風間昶
+
+Community 60 (2 nodes):
+東徹, 岩井茂樹
+
+Community 61 (2 nodes):
+村田浩, 島村武久
+
+Community 62 (2 nodes):
+島桂次, 青木賢児
+
+Community 63 (2 nodes):
+帆足計, 松尾静麿
+
+Community 64 (2 nodes):
+斎藤忠, 田中稔男
+
+Community 65 (2 nodes):
+茅陽一, 村沢牧
+
+Community 66 (2 nodes):
+松木けんこう, 鶴保庸介
+
+Community 67 (4 nodes):
+相澤重明, 林坦, 永野護, 辻章男
+
+Community 68 (2 nodes):
+野中英二, 柄谷道一
+
+Community 69 (2 nodes):
+森下丈二, 横沢高徳
+
+Community 70 (2 nodes):
+永末英一, 椎名悦三郎
+
+Community 71 (4 nodes):
+長谷川峻, 茅誠司, 永田武, 長谷川万吉
+
+Community 72 (2 nodes):
+藤範晃雄, 津川武一
+
+Community 73 (2 nodes):
+近江巳記夫, 渋谷敬三
+
+Community 74 (2 nodes):
+田名部匡省, 鴇田勝彦
+
+Community 75 (2 nodes):
+白井太, 矢原秀男
+
+Community 76 (2 nodes):
+荒木清寛, 石井敏弘
+
+Community 77 (2 nodes):
+長谷川慧重, 福間知之
+
+Community 78 (2 nodes):
+鈴木敦, 緒方林太郎
+
+Community 79 (2 nodes):
+青木日出雄, 藤原哲太郎
+
+Community 80 (2 nodes):
+鮎川ゆりか, 西岡秀三
+
+Community 81 (2 nodes):
+鳩山邦夫, 高野幸二郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  会議録情報: 0.0767
+  上田康治: 0.0678
+  山上信吾: 0.0678
+  河野太郎: 0.0560
+  若宮健嗣: 0.0560
+
+Betweenness Centrality (Top 5):
+  猪口邦子: 0.0347
+  新妻秀規: 0.0308
+  室井邦彦: 0.0272
+  河野太郎: 0.0189
+  松川るい: 0.0167
+
+Closeness Centrality (Top 5):
+  猪口邦子: 0.0852
+  新妻秀規: 0.0780
+  河野太郎: 0.0777
+  松川るい: 0.0751
+  会議録情報: 0.0747
+
+Eigenvector Centrality (Top 5):
+  会議録情報: 0.2534
+  上田康治: 0.2491
+  山上信吾: 0.2491
+  河野太郎: 0.2329
+  若宮健嗣: 0.2313

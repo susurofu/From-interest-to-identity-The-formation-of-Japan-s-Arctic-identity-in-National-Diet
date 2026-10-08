@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+福間知之
+
+Community 2 (1 nodes):
+長谷川慧重
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  福間知之: 1.0000
+  長谷川慧重: 1.0000
+
+Betweenness Centrality (Top 2):
+  福間知之: 0.0000
+  長谷川慧重: 0.0000
+
+Closeness Centrality (Top 2):
+  福間知之: 1.0000
+  長谷川慧重: 1.0000
+
+Eigenvector Centrality (Top 2):
+  福間知之: 0.7071
+  長谷川慧重: 0.7071

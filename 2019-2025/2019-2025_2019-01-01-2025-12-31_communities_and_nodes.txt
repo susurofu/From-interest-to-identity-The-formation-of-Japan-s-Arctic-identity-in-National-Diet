@@ -1,0 +1,172 @@
+### Communities Detected ###
+
+Community 1 (2 nodes):
+松川るい, Abe Toshiko
+
+Community 2 (28 nodes):
+伊達忠一, 小西洋之, 向大野新治, Omoda Masashi, Sugita Mio, 井上哲士, Suzuki Tetsu, Nagaoka Kansuke, 高瀬弘美, 会議録情報, Ueda Yasuharu, Sugimoto Kazumi, 渡邉美樹, Shibayama Masahiko, Ohbayashi Masanori, Tooyama Kiyohiko, アントニオ猪木, Aoyama Yamato, Inoue Kazunori, Wakamiya Kenji, Kono Tarou, 大島理森, Andou Toshihide, Saitou Jun, 岡村直子, Yamagami Shingo, Terata Manabu, 下川眞樹太
+
+Community 3 (2 nodes):
+左藤章, Tsumura Keisuke
+
+Community 4 (12 nodes):
+濱崎和也, 高良鉄美, 中西祐介, 川田龍平, 三浦信祐, 田島麻衣子, 上田清司, 伊藤岳, 柳ヶ瀬裕文, 池島大策, 山田修路, 榎本浩之
+
+Community 5 (4 nodes):
+松沢成文, 盛山正仁, 上川陽子, 神ノ田昌博
+
+Community 6 (4 nodes):
+尾身朝子, 山下芳生, 生川浩史, 上野通子
+
+Community 7 (8 nodes):
+串田誠一, 亀山康子, 原田尚美, 赤松健, 大椿ゆうこ, 伊波洋一, 秋元一峰, 岩渕友
+
+Community 8 (12 nodes):
+林芳正, 徳田修一, 池田佳隆, 伊東信久, 片山大介, 丹羽秀樹, 高橋はるみ, 横山信一, 末松信介, 原克彦, 加藤進, 萩生田光一
+
+Community 9 (2 nodes):
+井上信治, 緑川貴士
+
+Community 10 (2 nodes):
+佐伯浩治, 小林鷹之
+
+Community 11 (3 nodes):
+田野瀬太道, 宮本岳志, 千原由幸
+
+Community 12 (2 nodes):
+南亮, 和田義明
+
+Community 13 (2 nodes):
+黄川田仁志, 吉良州司
+
+Community 14 (2 nodes):
+江藤拓, 坂本哲志
+
+Community 15 (9 nodes):
+角南篤, 大坪新一郎, 大野泰正, 斉藤鉄夫, 赤羽一嘉, 室井邦彦, 熊谷裕人, 海谷厚志, 石田優
+
+Community 16 (6 nodes):
+本多平直, 梶山弘志, 磯崎仁彦, 大西健介, 石田昌宏, 茂木敏充
+
+Community 17 (2 nodes):
+定光裕樹, 藤巻健史
+
+Community 18 (2 nodes):
+小此木八郎, 森山浩行
+
+Community 19 (2 nodes):
+広瀬佳一, 小泉悠
+
+Community 20 (2 nodes):
+武藤容治, 小泉進次郎
+
+Community 21 (2 nodes):
+山岡達丸, 松本洋平
+
+Community 22 (2 nodes):
+山田吉彦, 平垣内久隆
+
+Community 23 (2 nodes):
+猪口邦子, 新妻秀規
+
+Community 24 (2 nodes):
+松木けんこう, 鶴保庸介
+
+Community 25 (2 nodes):
+横沢高徳, 森下丈二
+
+Community 26 (2 nodes):
+鈴木敦, 緒方林太郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 20):
+  会議録情報: 0.2185
+  Ueda Yasuharu: 0.1933
+  Yamagami Shingo: 0.1933
+  Wakamiya Kenji: 0.1597
+  Kono Tarou: 0.1513
+  Terata Manabu: 0.1513
+  Andou Toshihide: 0.1429
+  Aoyama Yamato: 0.1429
+  Inoue Kazunori: 0.1429
+  Nagaoka Kansuke: 0.1429
+  Ohbayashi Masanori: 0.1429
+  Omoda Masashi: 0.1429
+  Saitou Jun: 0.1429
+  Shibayama Masahiko: 0.1429
+  Sugimoto Kazumi: 0.1429
+  Sugita Mio: 0.1429
+  Suzuki Tetsu: 0.1429
+  Tooyama Kiyohiko: 0.1429
+  三浦信祐: 0.0924
+  川田龍平: 0.0924
+
+Betweenness Centrality (Top 20):
+  高良鉄美: 0.0141
+  角南篤: 0.0137
+  会議録情報: 0.0114
+  室井邦彦: 0.0091
+  石田優: 0.0073
+  萩生田光一: 0.0050
+  Ueda Yasuharu: 0.0043
+  Yamagami Shingo: 0.0043
+  Terata Manabu: 0.0037
+  末松信介: 0.0026
+  Wakamiya Kenji: 0.0024
+  三浦信祐: 0.0013
+  川田龍平: 0.0013
+  梶山弘志: 0.0009
+  渡邉美樹: 0.0007
+  伊波洋一: 0.0006
+  大椿ゆうこ: 0.0006
+  磯崎仁彦: 0.0006
+  Kono Tarou: 0.0005
+  盛山正仁: 0.0003
+
+Closeness Centrality (Top 20):
+  会議録情報: 0.2188
+  Ueda Yasuharu: 0.1976
+  Yamagami Shingo: 0.1976
+  Wakamiya Kenji: 0.1750
+  Kono Tarou: 0.1702
+  Terata Manabu: 0.1702
+  Andou Toshihide: 0.1656
+  Aoyama Yamato: 0.1656
+  Inoue Kazunori: 0.1656
+  Nagaoka Kansuke: 0.1656
+  Ohbayashi Masanori: 0.1656
+  Omoda Masashi: 0.1656
+  Saitou Jun: 0.1656
+  Shibayama Masahiko: 0.1656
+  Sugimoto Kazumi: 0.1656
+  Sugita Mio: 0.1656
+  Suzuki Tetsu: 0.1656
+  Tooyama Kiyohiko: 0.1656
+  渡邉美樹: 0.1361
+  アントニオ猪木: 0.1303
+
+Eigenvector Centrality (Top 20):
+  会議録情報: 0.2535
+  Ueda Yasuharu: 0.2492
+  Yamagami Shingo: 0.2492
+  Kono Tarou: 0.2322
+  Wakamiya Kenji: 0.2314
+  Terata Manabu: 0.2288
+  Andou Toshihide: 0.2281
+  Aoyama Yamato: 0.2281
+  Inoue Kazunori: 0.2281
+  Nagaoka Kansuke: 0.2281
+  Ohbayashi Masanori: 0.2281
+  Omoda Masashi: 0.2281
+  Saitou Jun: 0.2281
+  Shibayama Masahiko: 0.2281
+  Sugimoto Kazumi: 0.2281
+  Sugita Mio: 0.2281
+  Suzuki Tetsu: 0.2281
+  Tooyama Kiyohiko: 0.2281
+  渡邉美樹: 0.0758
+  アントニオ猪木: 0.0621
+
+### Nodes Concentration ###
+Concentration: 1.0

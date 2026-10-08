@@ -1,0 +1,20 @@
+Topic 0: 教育 | 学校 | 研究 | 推進 | 文化 | 支援 | 大学 | 充実 | スポーツ | 進める
+Topic 1: 日本 | 北極 | やっぱり | 評議 | ありがとう | 非常 | 池島 | 科学 | いろんな | 先生
+Topic 2: 外交 | 強化 | 協力 | 平和 | 安全 | 国際 | 保障 | 連携 | 推進 | 経済
+Topic 3: 航路 | 輸送 | 北極 | lng | 利用 | コンテナ | 海運 | 通航 | 航行 | 利活用
+Topic 4: 海洋 | 調査 | 国際 | 資源 | 環境 | 取組 | 開発 | 政策 | 保全 | 生物
+Topic 5: 研究 | 観測 | 極域 | 北極 | 科学 | データ | 南極 | 地球 | 重要 | 極地
+Topic 6: lng | ロシア | プロジェクト | 供給 | jogmec | 出資 | エネルギー | サハリン | ガス | 天然
+Topic 7: 気候 | 変動 | 上昇 | 海面 | 解ける | 温暖 | 影響 | メートル | 保障 | けど
+Topic 8: 航空 | ルート | ロシア | 運航 | 会社 | 領空 | 各社 | 欧州 | 南回り | 経由
+
+
+Topic 0: Education | Schools | Research | Promotion | Culture | Support | University | Enrichment | Sports | Advance
+Topic 1: Japan | Arctic | As expected | Council | Thank you | Extreme | Ikeshima | Science | Various | Professor
+Topic 2: Diplomacy | Strengthening | Cooperation | Peace | Security | International | Security | Cooperation | Promotion | Economics
+Topic 3: Routes | Transport | Arctic | lng | Usage | Containers | Shipping | Navigation | Navigation | Utilization
+Topic 4: Oceans | Survey | International | Resources | Environment | Efforts | Development | Policy | Conservation | Biology
+Topic 5: Research | Observations | Polar Regions | Arctic | Science | Data | Antarctica | Earth | Important | Polar Regions
+Topic 6: lng | Russia | Project | Supply | jogmec | Investment | Energy | Sakhalin | Gas | Natural
+Topic 7: Climate | Variation | Rise | Sea Level | Solve | Warm | Impact | Metric | Guarantee | But
+Topic 8: Airlines | Routes | Russia | Flights | Company | Airspace | Companies | Europe | Southern Routes | Via

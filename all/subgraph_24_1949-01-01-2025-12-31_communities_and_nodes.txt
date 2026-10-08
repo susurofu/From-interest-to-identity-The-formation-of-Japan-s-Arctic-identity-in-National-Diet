@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+務台俊介
+
+Community 2 (6 nodes):
+加藤由起夫, 小松弥生, 馳浩, 田中正朗, 水嶋光一, 宮本徹
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  務台俊介: 1.0000
+  加藤由起夫: 1.0000
+  小松弥生: 1.0000
+  馳浩: 1.0000
+  田中正朗: 1.0000
+
+Betweenness Centrality (Top 5):
+  務台俊介: 0.0000
+  加藤由起夫: 0.0000
+  小松弥生: 0.0000
+  馳浩: 0.0000
+  田中正朗: 0.0000
+
+Closeness Centrality (Top 5):
+  務台俊介: 1.0000
+  加藤由起夫: 1.0000
+  小松弥生: 1.0000
+  馳浩: 1.0000
+  田中正朗: 1.0000
+
+Eigenvector Centrality (Top 5):
+  務台俊介: 0.3780
+  加藤由起夫: 0.3780
+  小松弥生: 0.3780
+  馳浩: 0.3780
+  田中正朗: 0.3780

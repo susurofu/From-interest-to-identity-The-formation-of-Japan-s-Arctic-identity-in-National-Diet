@@ -1,0 +1,108 @@
+### Communities Detected ###
+
+Community 1 (18 nodes):
+Nishide Noritake, アントニオ猪木, 野上浩太郎, 石井啓一, 島尻安伊子, 伊藤渉, 冨岡勉, Kitamura Shigeo, Yamagiwa Daishirou, Kishida Fumio, Abe Toshiko, Ueno Ken'ichirou, Yamamoto Tomohiro, Taira Masaaki, 鷲尾英一郎, 橋田俊彦, 吉良州司, Tsumura Keisuke
+
+Community 2 (9 nodes):
+前田哲, 石井苗子, Kono Tarou, 兵頭慎治, 鉢呂吉雄, 猪口邦子, 下斗米伸夫, 松川るい, 木戸口英司
+
+Community 3 (5 nodes):
+伊佐進一, 長田太, 新美潤, 徳地秀士, 中山泰秀
+
+Community 4 (2 nodes):
+浜田昌良, 佐藤正久
+
+Community 5 (7 nodes):
+水嶋光一, 務台俊介, 田中正朗, 小松弥生, 宮本徹, 馳浩, 加藤由起夫
+
+Community 6 (3 nodes):
+林芳正, 山田太郎, 古賀友一郎
+
+Community 7 (2 nodes):
+吉川ゆうみ, 山田吉彦
+
+Community 8 (2 nodes):
+植松恵美子, 吉野正芳
+
+Community 9 (3 nodes):
+鎌形浩史, 塩川鉄也, 玉城デニー
+
+Community 10 (10 nodes):
+大山真未, 志水史雄, 藤田耕三, 新妻秀規, 市川恵一, 室井邦彦, 羽尾一郎, 福井照, 武井俊輔, 浜地雅一
+
+Community 11 (9 nodes):
+斎藤洋明, 関芳弘, 瀧口敬二, 津島淳, 山縣宣彦, 滝口敬二, 金子洋一, 太田昭宏, 香田洋二
+
+Community 12 (2 nodes):
+安倍晋三, 新藤義孝
+
+Community 13 (2 nodes):
+西脇隆俊, 田中茂
+
+Community 14 (2 nodes):
+小熊慎司, 黄川田仁志
+
+Community 15 (3 nodes):
+山口壯, 荒井聰, 西村明宏
+
+Community 16 (2 nodes):
+藤田幸久, 山本良一
+
+Community 17 (2 nodes):
+東徹, 岩井茂樹
+
+Community 18 (2 nodes):
+磯崎仁彦, 浅田均
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Kishida Fumio: 0.1548
+  Tsumura Keisuke: 0.1429
+  羽尾一郎: 0.1071
+  Abe Toshiko: 0.0952
+  Kitamura Shigeo: 0.0952
+  Nishide Noritake: 0.0952
+  Taira Masaaki: 0.0952
+  Ueno Ken'ichirou: 0.0952
+  Yamagiwa Daishirou: 0.0952
+  Yamamoto Tomohiro: 0.0952
+
+Betweenness Centrality (Top 10):
+  Kishida Fumio: 0.0198
+  Tsumura Keisuke: 0.0161
+  羽尾一郎: 0.0086
+  太田昭宏: 0.0066
+  室井邦彦: 0.0052
+  松川るい: 0.0037
+  西脇隆俊: 0.0029
+  猪口邦子: 0.0020
+  Abe Toshiko: 0.0000
+  Kitamura Shigeo: 0.0000
+
+Closeness Centrality (Top 10):
+  Kishida Fumio: 0.1638
+  Tsumura Keisuke: 0.1564
+  Abe Toshiko: 0.1323
+  Kitamura Shigeo: 0.1323
+  Nishide Noritake: 0.1323
+  Taira Masaaki: 0.1323
+  Ueno Ken'ichirou: 0.1323
+  Yamagiwa Daishirou: 0.1323
+  Yamamoto Tomohiro: 0.1323
+  羽尾一郎: 0.1029
+
+Eigenvector Centrality (Top 10):
+  Kishida Fumio: 0.3496
+  Tsumura Keisuke: 0.3460
+  Abe Toshiko: 0.3248
+  Kitamura Shigeo: 0.3248
+  Nishide Noritake: 0.3248
+  Taira Masaaki: 0.3248
+  Ueno Ken'ichirou: 0.3248
+  Yamagiwa Daishirou: 0.3248
+  Yamamoto Tomohiro: 0.3248
+  伊藤渉: 0.0489
+
+### Nodes Concentration ###
+Concentration: 0.72

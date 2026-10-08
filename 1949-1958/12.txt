@@ -1,0 +1,26 @@
+Topic 0: 日本 | アメリカ | 問題 | 被害 | 国連 | 原子 | 防衛 | 場合 | 外務 | 国際
+Topic 1: 観測 | 南極 | 地球 | 学術 | 現象 | 国際 | 予算 | 会議 | 日本 | 地域
+Topic 2: 路線 | 欧州 | 有利 | どちら | 東南 | 通る | アジア | 政策 | 吉行 | 営業
+Topic 3: 異議 | 請暇 | 二十七 | 欧米 | 諮る | 本名 | 本日 | 記念 | 日間 | 申し出
+Topic 4: 協定 | スイス | 法晴 | 経由 | 吉田 | 約定 | 航路 | スカンジナヴィア | 発展 | 得る
+Topic 5: 帰還 | 政府 | 引揚 | 明らか | 地区 | 日本 | 死亡 | 今回 | ソ連 | 国民
+Topic 6: 日航 | 松本 | ばく然 | 北京 | はっきり | sas | 計画 | 答弁 | いかが | 伺う
+Topic 7: 開発 | 資源 | 石油 | 調査 | 国内 | 地域 | 技術 | 地質 | 資本 | 地帯
+Topic 8: 漁区 | 漁船 | 拡張 | 以つ | 日本 | まする | マツカーサー | 大臣 | 水産 | 承知
+Topic 9: 参考 | 日高 | 抽象 | 揚げる | まする | バイカル | 残留 | カムチヤツカ | 抑留 | 看護
+Topic 10: 気象 | 研究 | 問題 | 運輸 | 伸ばす | 北極 | 上げる | 大臣 | 日本 | 見込
+Topic 11: 航空 | 飛行 | 国際 | くらい | 年度 | 会社 | 空港 | フランス | 協定 | 世界
+
+
+Topic 0: Japan | America | Issues | Damage | United Nations | Atoms | Defense | Cases | Foreign Affairs | International
+Topic 1: Observations | Antarctic | Earth | Academic | Phenomena | International | Budget | Meetings | Japan | Region
+Topic 2: Routes | Europe | Advantages | Which | Southeast | Pass | Asia | Policy | Yoshiyuki | Business
+Topic 3: Objection | Requesting time | 27 | Europe and the United States | Consulting | Real name | Today | Commemoration | Days | Offer
+Topic 4: Agreement | Switzerland | Hoharu | Via | Yoshida | Contract | Route | Scandinavia | Development | Get
+Topic 5: Return | Government | Retirement | Clear | District | Japan | Death | This time | Soviet Union | People
+Topic 6: Japan Airlines | Matsumoto | Bakuren | Beijing | Clear | sas | Plan | Answer | How | I'll ask
+Topic 7: Development | Resources | Petroleum | Research | Domestic | Regions | Technology | Geology | Capital | Zone
+Topic 8: Fishing Areas | Fishing Boats | Expansion | Japan | Masuru | Matsukathur | Minister | Fisheries | Know
+Topic 9: Reference | Hidaka | Abstract | Fried | Masuru | Baikal | Remaining | Kamchiyatsuka | Internment | Nursing
+Topic 10: Weather | Research | Issues | Transport | Stretch | Arctic | Raise | Minister | Japan | Estimate
+Topic 11: Aviation | Flight | International | Average | Year | Company | Airport | France | Agreement | World

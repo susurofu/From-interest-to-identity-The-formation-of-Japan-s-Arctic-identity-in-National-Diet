@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+田名部匡省
+
+Community 2 (1 nodes):
+鴇田勝彦
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  田名部匡省: 1.0000
+  鴇田勝彦: 1.0000
+
+Betweenness Centrality (Top 2):
+  田名部匡省: 0.0000
+  鴇田勝彦: 0.0000
+
+Closeness Centrality (Top 2):
+  田名部匡省: 1.0000
+  鴇田勝彦: 1.0000
+
+Eigenvector Centrality (Top 2):
+  田名部匡省: 0.7071
+  鴇田勝彦: 0.7071

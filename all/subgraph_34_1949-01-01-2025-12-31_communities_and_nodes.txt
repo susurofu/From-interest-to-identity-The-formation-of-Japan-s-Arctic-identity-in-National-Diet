@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (4 nodes):
+吉行市太郎, 曾禰益, 吉田法晴, 梶原茂嘉
+
+Community 2 (1 nodes):
+松本七郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  吉行市太郎: 1.0000
+  吉田法晴: 0.7500
+  梶原茂嘉: 0.7500
+  曾禰益: 0.7500
+  松本七郎: 0.2500
+
+Betweenness Centrality (Top 5):
+  吉行市太郎: 0.5000
+  吉田法晴: 0.0000
+  梶原茂嘉: 0.0000
+  松本七郎: 0.0000
+  曾禰益: 0.0000
+
+Closeness Centrality (Top 5):
+  吉行市太郎: 1.0000
+  吉田法晴: 0.8000
+  梶原茂嘉: 0.8000
+  曾禰益: 0.8000
+  松本七郎: 0.5714
+
+Eigenvector Centrality (Top 5):
+  吉行市太郎: 0.5236
+  吉田法晴: 0.4820
+  梶原茂嘉: 0.4820
+  曾禰益: 0.4820
+  松本七郎: 0.1697

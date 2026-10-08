@@ -1,0 +1,14 @@
+Topic 0: 環境 | 地球 | 問題 | 温暖 | 日本 | 社会 | 非常 | 経済 | 大臣 | 国民
+Topic 1: ルート | 飛行 | プルトニウム | 輸送 | 協定 | 通る | ノンストップ | アメリカ | 可能 | 場合
+Topic 2: 石油 | 公団 | 会社 | 事業 | 開発 | 検査 | 損失 | 会計 | 回収 | 投融資
+Topic 3: オゾン | ホール | 南極 | 観測 | 減少 | 破壊 | 半球 | 状況 | フロン | 傾向
+Topic 4: 大雪 | 災害 | 被害 | 除雪 | 新潟 | 対策 | 救助 | 雪崩 | 積雪 | 除排雪
+Topic 5: 研究 | 海洋 | 観測 | 技術 | 科学 | 地球 | 調査 | 衛星 | 開発 | 協力
+
+
+Topic 0: Environment | Earth | Problems | Global Warming | Japan | Society | Emergency | Economy | Minister | Citizen
+Topic 1: Route | Flight | Plutonium | Transport | Agreement | Pass | Nonstop | America | Possible | If
+Topic 2: Oil | Public Corporation | Company | Business | Development | Inspection | Loss | Accounting | Recovery | Investment and Loan
+Topic 3: Ozone | Hole | Antarctica | Observation | Decrease | Destruction | Hemisphere | Status | CFCs | Trend
+Topic 4: Heavy snow | Disaster | Damage | Snow removal | Niigata | Countermeasures | Rescue | Avalanche | Snow accumulation | Snow removal
+Topic 5: Research | Ocean | Observation | Technology | Science | Earth | Survey | Satellite | Development | Cooperation

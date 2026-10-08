@@ -1,0 +1,57 @@
+### Communities Detected ###
+
+Community 1 (27 nodes):
+伊達忠一, 小西洋之, 向大野新治, Omoda Masashi, Sugita Mio, 井上哲士, Suzuki Tetsu, Nagaoka Kansuke, 高瀬弘美, 会議録情報, Ueda Yasuharu, Sugimoto Kazumi, 渡邉美樹, Shibayama Masahiko, Ohbayashi Masanori, Tooyama Kiyohiko, アントニオ猪木, Aoyama Yamato, Inoue Kazunori, Wakamiya Kenji, Kono Tarou, 大島理森, Andou Toshihide, Saitou Jun, 岡村直子, Yamagami Shingo, Terata Manabu
+
+Community 2 (1 nodes):
+下川眞樹太
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  会議録情報: 0.9630
+  Ueda Yasuharu: 0.8519
+  Yamagami Shingo: 0.8519
+  Wakamiya Kenji: 0.7037
+  Kono Tarou: 0.6667
+  Terata Manabu: 0.6667
+  Omoda Masashi: 0.6296
+  Sugita Mio: 0.6296
+  Suzuki Tetsu: 0.6296
+  Nagaoka Kansuke: 0.6296
+
+Betweenness Centrality (Top 10):
+  会議録情報: 0.2279
+  Ueda Yasuharu: 0.0855
+  Yamagami Shingo: 0.0855
+  Terata Manabu: 0.0741
+  Wakamiya Kenji: 0.0484
+  渡邉美樹: 0.0150
+  Kono Tarou: 0.0107
+  伊達忠一: 0.0000
+  小西洋之: 0.0000
+  向大野新治: 0.0000
+
+Closeness Centrality (Top 10):
+  会議録情報: 0.9643
+  Ueda Yasuharu: 0.8710
+  Yamagami Shingo: 0.8710
+  Wakamiya Kenji: 0.7714
+  Kono Tarou: 0.7500
+  Terata Manabu: 0.7500
+  Omoda Masashi: 0.7297
+  Sugita Mio: 0.7297
+  Suzuki Tetsu: 0.7297
+  Nagaoka Kansuke: 0.7297
+
+Eigenvector Centrality (Top 10):
+  会議録情報: 0.2535
+  Yamagami Shingo: 0.2492
+  Ueda Yasuharu: 0.2492
+  Kono Tarou: 0.2322
+  Wakamiya Kenji: 0.2314
+  Terata Manabu: 0.2288
+  Omoda Masashi: 0.2281
+  Sugita Mio: 0.2281
+  Suzuki Tetsu: 0.2281
+  Nagaoka Kansuke: 0.2281

@@ -1,0 +1,20 @@
+Topic 0: やっぱり | 北極 | 評議 | ありがとう | 国々 | 日本 | 池島 | 関係 | 民族 | 非常
+Topic 1: 教育 | 研究 | 推進 | 学校 | スポーツ | 大学 | 支援 | 文化 | 充実 | 芸術
+Topic 2: 航路 | 輸送 | 北極 | lng | 利用 | 運航 | 答弁 | けど | コンテナ | 砕氷
+Topic 3: 海洋 | 調査 | 国際 | 取組 | 資源 | 環境 | 課題 | べし | 生物 | 行う
+Topic 4: 観測 | 研究 | 北極 | 極域 | 気候 | 変動 | 地球 | 育成 | 人材 | 南極
+Topic 5: 発電 | 日本 | 電力 | 風力 | 世界 | エネルギー | ページ | 重要 | 浮体 | 技術
+Topic 6: 凍土 | 永久 | 融解 | 温暖 | シベリア | 解ける | 気候 | 感染 | 事態 | メタンガス
+Topic 7: 日本 | 科学 | あと | 北極 | 大学 | データ | 研究 | 現地 | 自然 | 情報
+Topic 8: lng | かえる | 積む | jogmec | リスク | 基地 | ロシア | 事業 | 供給 | わかる
+
+
+Topic 0: As expected | Arctic | Council | Thank you | Countries | Japan | Ikeshima | Relationships | Ethnic groups | Emergency
+Topic 1: Education | Research | Promotion | School | Sports | University | Support | Culture | Enrichment | Arts
+Topic 2: Route | Transport | Arctic | LNG | Utilization | Navigation | Answer | However | Container | Icebreaking
+Topic 3: Ocean | Research | International | Initiatives | Resources | Environment | Challenges | Should | Biology |
+Topic 4: Observation | Research | Arctic | Polar Regions | Climate | Change | Earth | Development | Human Resources | Antarctica
+Topic 5: Power generation | Japan | Electricity | Wind power | World | Energy | Page | Important | Floating objects | Technology
+Topic 6: Frozen soil | Perpetual | Thawing | Warm | Siberia | Thawing | Climate | Infection | Situation | Methane gas
+Topic 7: Japan | Science | Other | Arctic | Universities | Data | Research | Local | Nature | Information
+Topic 8: lng | frog | loading | jogmec | risk | base | Russia | business | supply | understand

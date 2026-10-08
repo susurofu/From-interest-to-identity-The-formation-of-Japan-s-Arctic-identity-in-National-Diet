@@ -1,0 +1,14 @@
+Topic 0: 日本 | 北極 | やっぱり | 評議 | ありがとう | 国々 | 非常 | 科学 | 池島 | 先生
+Topic 1: 教育 | 研究 | 推進 | 大学 | 学校 | スポーツ | 支援 | 文化 | 充実 | 芸術
+Topic 2: lng | 航路 | 北極 | 輸送 | ロシア | リスク | けど | 事業 | 積む | かえる
+Topic 3: 海洋 | 調査 | 国際 | 取組 | 資源 | 環境 | 日本 | 課題 | べし | 生物
+Topic 4: 観測 | 研究 | 北極 | 極域 | 科学 | 南極 | 地球 | 変動 | 気候 | データ
+Topic 5: 凍土 | 永久 | 融解 | 温暖 | 気候 | 解ける | シベリア | 変動 | 影響 | 感染
+
+
+Topic 0: Japan | Arctic | As expected | Council | Thank you | Countries | Emergency | Science | Ikejima | Teacher
+Topic 1: Education | Research | Promotion | University | School | Sports | Support | Culture | Enrichment | Arts
+Topic 2: lng | Route | Arctic | Transport | Russia | Risk | But | Business | Loading | Frog
+Topic 3: Ocean | Research | International | Initiatives | Resources | Environment | Japan | Challenges |
+Topic 4: Observation | Research | Arctic | Polar Regions | Science | Antarctica | Earth | Change | Climate | Data
+Topic 5: Permanent | Thawing | Warm | Climate | Thawing | Siberia | Change | Impact | Infection

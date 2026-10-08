@@ -1,0 +1,10 @@
+Topic 0: 日本 | ロシア | 中国 | 安全 | 問題 | 保障 | 外交 | 経済 | 国際 | 世界
+Topic 1: 教育 | 研究 | 学校 | 推進 | 文化 | 支援 | 大学 | スポーツ | 充実 | 進める
+Topic 2: 北極 | 航路 | 研究 | 観測 | 政策 | 海洋 | 科学 | 南極 | 海氷 | 利用
+Topic 3: 協定 | 漁業 | 承認 | 締結 | 公海 | 条約 | 規制 | 水域 | 求める | 中央
+
+
+Topic 0: Japan | Russia | China | Security | Issues | Security | Diplomacy | Economy | International | World
+Topic 1: Education | Research | School | Promotion | Culture | Support | University | Sports | Enrichment | Proceed
+Topic 2: Arctic | Shipping Routes | Research | Observation | Policy | Ocean | Science | Antarctica | Sea Ice | Utilization
+Topic 3: Agreement | Fisheries | Approval | Conclusion | High Seas | Treaty | Regulation | Waters | Request | Central

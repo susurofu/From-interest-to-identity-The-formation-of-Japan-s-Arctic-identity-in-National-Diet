@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (4 nodes):
+岩動道行, 塩出啓典, 末次克彦, 神津信男
+
+Community 2 (1 nodes):
+工藤晃
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  岩動道行: 1.0000
+  塩出啓典: 0.7500
+  末次克彦: 0.7500
+  神津信男: 0.7500
+  工藤晃: 0.2500
+
+Betweenness Centrality (Top 5):
+  岩動道行: 0.5000
+  塩出啓典: 0.0000
+  末次克彦: 0.0000
+  神津信男: 0.0000
+  工藤晃: 0.0000
+
+Closeness Centrality (Top 5):
+  岩動道行: 1.0000
+  塩出啓典: 0.8000
+  末次克彦: 0.8000
+  神津信男: 0.8000
+  工藤晃: 0.5714
+
+Eigenvector Centrality (Top 5):
+  岩動道行: 0.5236
+  塩出啓典: 0.4820
+  末次克彦: 0.4820
+  神津信男: 0.4820
+  工藤晃: 0.1697

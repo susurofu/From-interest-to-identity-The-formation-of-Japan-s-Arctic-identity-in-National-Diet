@@ -1,0 +1,24 @@
+Topic 0: 日本 | 問題 | アメリカ | 原子 | 非常 | ソ連 | ロシア | 中国 | 見る | 意味
+Topic 1: 教育 | 学校 | 研究 | 文化 | 推進 | 支援 | 大学 | スポーツ | 充実 | 進める
+Topic 2: 石油 | ドーム | 公団 | 会社 | カナダ | 契約 | 開発 | 探鉱 | 資金 | プロジェクト
+Topic 3: 研究 | 観測 | 科学 | 海洋 | 北極 | 南極 | 極域 | 国際 | 我が国 | 技術
+Topic 4: 航路 | 北極 | ロシア | lng | 輸送 | 航行 | 運河 | 海運 | 利用 | 我が国
+Topic 5: 航空 | 路線 | 飛行 | ルート | 経由 | 東京 | 現在 | 欧州 | 協定 | 日本
+Topic 6: 協定 | 漁業 | 公海 | 承認 | 締結 | 条約 | 水域 | 規制 | 防止 | 中央
+Topic 7: 地球 | 環境 | 温暖 | 気候 | 気象 | 影響 | 問題 | 変動 | 上昇 | 対策
+Topic 8: 国際 | 強化 | 外交 | 協力 | 安全 | 平和 | 保障 | 海洋 | 推進 | 取組
+Topic 9: オゾン | ホール | 南極 | 観測 | 破壊 | 減少 | 衛星 | フロン | 半球 | 気象
+
+
+<coroutine object Translator.translate at 0x3080e73e0>
+
+Topic 0: Japan | Problems | America | Atoms | Emergency | Soviet Union | Russia | China | See | Meaning
+Topic 1: Education | School | Research | Culture | Promotion | Support | University | Sports | Enhancement | Advance
+Topic 2: Oil | Dome | Public Corporation | Company | Canada | Contract | Development | Exploration | Funding | Project
+Topic 3: Research | Observation | Science | Ocean | Arctic | Antarctic | Polar Regions | International | Japan | Technology
+Topic 4: Sea Routes | Arctic | Russia | LNG | Transportation | Navigation | Canal | Shipping | Use | Japan
+Topic 5: Aviation | Route | Flight | Route | Via | Tokyo | Present | Europe | Agreement | Japan
+Topic 6: Agreement | Fisheries | High Seas | Approval | Conclusion | Treaty | Waters | Regulation | Prevention Center
+Topic 7: Earth | Environment | Global Warming | Climate | Weather | Impacts | Issues | Changes | Increases | Measures
+Topic 8: International | Strengthening | Diplomacy | Cooperation | Security | Peace | Security | Oceans | Promotion | Efforts
+Topic 9: Ozone | Hole | Antarctica | Observation | Destruction | Decrease | Satellites | CFCs | Hemispheres | Weather

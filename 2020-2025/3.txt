@@ -1,0 +1,8 @@
+Topic 0: 教育 | 研究 | 学校 | 推進 | 文化 | 支援 | 大学 | 充実 | スポーツ | 進める
+Topic 1: 北極 | 航路 | 日本 | ロシア | lng | 研究 | 観測 | 非常 | 参考 | 南極
+Topic 2: 海洋 | 外交 | 国際 | 強化 | 安全 | 協力 | 日本 | 保障 | 取組 | 連携
+
+
+Topic 0: Education | Research | Schools | Promotion | Culture | Support | University | Enrichment | Sports | Advance
+Topic 1: Arctic | Routes | Japan | Russia | lng | Research | Observations | Emergency | Reference | Antarctica
+Topic 2: Oceans | Diplomacy | International | Strengthening | Safety | Cooperation | Japan | Security | Efforts | Collaboration

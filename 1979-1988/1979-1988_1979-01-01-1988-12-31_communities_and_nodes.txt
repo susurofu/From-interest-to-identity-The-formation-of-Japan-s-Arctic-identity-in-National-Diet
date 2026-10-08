@@ -1,0 +1,87 @@
+### Communities Detected ###
+
+Community 1 (12 nodes):
+野坂浩賢, Endou Tetsuchi, Matsui Takashi, Murayama Kiichi, Tsuji Kazuhiko, 小川仁一, 上田利正, Saitou Makoto, Inamura Toshio, Kanazaki Takenori, 松前達郎, 矢田部理
+
+Community 2 (7 nodes):
+後藤田正晴, 松尾邦彦, 和田敏信, 井上一成, 藤波孝生, 磯田晋, 和田静夫
+
+Community 3 (3 nodes):
+高橋達直, 草川昭三, 勝谷保
+
+Community 4 (2 nodes):
+佐藤観樹, 湯山勇
+
+Community 5 (3 nodes):
+北村俊男, 田中恒利, 高橋浩一郎
+
+Community 6 (5 nodes):
+塩出啓典, 岩動道行, 工藤晃, 末次克彦, 神津信男
+
+Community 7 (2 nodes):
+間野忠, 宇野宗佑
+
+Community 8 (2 nodes):
+豊島格, 小川新一郎
+
+Community 9 (2 nodes):
+茅陽一, 村沢牧
+
+Community 10 (2 nodes):
+長谷川慧重, 福間知之
+
+Community 11 (2 nodes):
+青木日出雄, 藤原哲太郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Endou Tetsuchi: 0.2195
+  Matsui Takashi: 0.1951
+  井上一成: 0.1463
+  松尾邦彦: 0.1220
+  磯田晋: 0.1220
+  Inamura Toshio: 0.0976
+  Murayama Kiichi: 0.0976
+  Tsuji Kazuhiko: 0.0976
+  勝谷保: 0.0976
+  和田敏信: 0.0976
+
+Betweenness Centrality (Top 10):
+  Endou Tetsuchi: 0.0329
+  Matsui Takashi: 0.0268
+  井上一成: 0.0171
+  勝谷保: 0.0171
+  松尾邦彦: 0.0098
+  磯田晋: 0.0073
+  岩動道行: 0.0037
+  Inamura Toshio: 0.0000
+  Kanazaki Takenori: 0.0000
+  Murayama Kiichi: 0.0000
+
+Closeness Centrality (Top 10):
+  Endou Tetsuchi: 0.2270
+  Matsui Takashi: 0.2108
+  井上一成: 0.1646
+  Inamura Toshio: 0.1640
+  Murayama Kiichi: 0.1640
+  Tsuji Kazuhiko: 0.1640
+  Kanazaki Takenori: 0.1553
+  Saitou Makoto: 0.1553
+  磯田晋: 0.1520
+  小川仁一: 0.1405
+
+Eigenvector Centrality (Top 10):
+  Endou Tetsuchi: 0.5015
+  Matsui Takashi: 0.4432
+  Inamura Toshio: 0.3291
+  Murayama Kiichi: 0.3291
+  Tsuji Kazuhiko: 0.3291
+  Kanazaki Takenori: 0.2441
+  Saitou Makoto: 0.2441
+  小川仁一: 0.1747
+  松前達郎: 0.1747
+  矢田部理: 0.1747
+
+### Nodes Concentration ###
+Concentration: 0.47

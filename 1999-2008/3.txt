@@ -1,0 +1,6 @@
+Topic 0: 環境 | 社会 | 推進 | 地球 | 進める | 構築 | 対策 | 問題 | 経済 | 保全
+Topic 1: 大雪 | 災害 | 被害 | 除雪 | 新潟 | 状況 | 救助 | 対策 | 雪崩 | 積雪
+Topic 2: 日本 | 地球 | 問題 | 温暖 | pcb | 北極 | 非常 | 研究 | 大変 | 世界
+
+
+<coroutine object Translator.translate at 0x30b781e70>

@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+小泉進次郎
+
+Community 2 (1 nodes):
+武藤容治
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  小泉進次郎: 1.0000
+  武藤容治: 1.0000
+
+Betweenness Centrality (Top 2):
+  小泉進次郎: 0.0000
+  武藤容治: 0.0000
+
+Closeness Centrality (Top 2):
+  小泉進次郎: 1.0000
+  武藤容治: 1.0000
+
+Eigenvector Centrality (Top 2):
+  小泉進次郎: 0.7071
+  武藤容治: 0.7071

@@ -1,0 +1,8 @@
+Topic 0: 環境 | 地球 | 問題 | オゾン | 温暖 | 日本 | 研究 | 観測 | 非常 | 上げる
+Topic 1: ルート | 飛行 | プルトニウム | 輸送 | 協定 | 通る | ノンストップ | アメリカ | 可能 | 場合
+Topic 2: 石油 | 公団 | 会社 | 事業 | 開発 | 検査 | 損失 | 会計 | 回収 | 投融資
+
+
+Topic 0: Environment | Earth | Problems | Ozone | Warmth | Japan | Research | Observation | Emergency | Raise
+Topic 1: Route | Flight | Plutonium | Transport | Agreement | Pass | Nonstop | America | Possible | If
+Topic 2: Oil | Public Corporation | Company | Business | Development | Inspection | Loss | Accounting | Recovery | Investment and Loan

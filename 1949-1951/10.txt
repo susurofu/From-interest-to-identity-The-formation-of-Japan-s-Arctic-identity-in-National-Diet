@@ -1,0 +1,22 @@
+Topic 0: 明らか | 帰還 | 政府 | 引揚 | 発表 | 犠牲 | ソ連 | 国民 | 地区 | 今回
+Topic 1: 漁区 | 漁船 | 拡張 | 近く | 日本 | ライン | マツカーサー | 総司令 | 通り | 以つ
+Topic 2: 参考 | 抽象 | バイカル | 残留 | 日高 | 食い違い | 抑留 | 使用 | 看護 | 立つ
+Topic 3: 状況 | 途中 | 上木戸 | 証人 | ちよつと | 入る | 発言 | 岡元 | 義人 | ナリンスク
+Topic 4: 見込 | 研究 | 湿度 | 尾瀬沼 | 地質 | 余地 | 濕度 | 学術 | 寒い | とみ
+Topic 5: 安定 | 日本 | 状態 | 込める | まつ | 軌道 | 一層 | 外国 | 貿易 | 来る
+Topic 6: 長官 | 立法 | 全会 | 問題 | 而も | 恐らく | 所見 | 了解 | 議員 | 措置
+Topic 7: 揚げる | 方面 | 見当 | ほとんど | 先ほど | 全然 | アジア | 中央 | 住む | 日高
+Topic 8: 克服 | 停止 | 輸出 | 手段 | インフレーシヨン | あらゆる | 予算 | 年度 | 物価 | 上る
+Topic 9: 日本 | 外交 | 條約 | アメリカ | 主義 | 戰争 | 武力 | 問題 | 国家 | アジア
+
+
+Topic 0: Clear | Return | Government | Retirement | Announcement | Sacrifice | Soviet Union | People | District | This time
+Topic 1: Fishing Areas | Fishing Boats | Expansion | Nearby | Japan | Line | Matsukathur | Commander | Street |
+Topic 2: Reference | Abstract | Baikal | Remaining | Hidaka | Disparity | Internment | Use | Nursing | Standing
+Topic 3: Status | In the middle | Kamikido | Witness | Chiyotsuto | Enter | Comment | Okamoto | Yoshito | Narinsk
+Topic 4: Prospect | Research | Humidity | Ozenuma | Geology | Room | Crisis | Academic | Cold | Tomi
+Topic 5: Stable | Japan | Condition | Entry | Matsu | Track | Layer | Foreign | Trade | Coming
+Topic 6: Director-General | Legislation | All Assembly | Issues | But perhaps | Findings | Understandings | Legislators | Measures
+Topic 7: Fried | Area | Registration | Almost | Previous | Not at all | Asia | Central | Living | Hidaka
+Topic 8: Overcoming | Stop | Export | Means | Inflammation | Any | Budget | Year | Prices | Up
+Topic 9: Japan | Diplomacy | Treaty | America | Issues | Warfare | Armed Force | Issues | States | Asia

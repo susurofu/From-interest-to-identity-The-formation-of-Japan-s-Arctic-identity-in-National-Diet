@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (3 nodes):
+秋元一峰, 亀山康子, 串田誠一
+
+Community 2 (5 nodes):
+赤松健, 岩渕友, 伊波洋一, 原田尚美, 大椿ゆうこ
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  伊波洋一: 1.0000
+  大椿ゆうこ: 1.0000
+  串田誠一: 0.5714
+  赤松健: 0.5714
+  岩渕友: 0.5714
+
+Betweenness Centrality (Top 5):
+  伊波洋一: 0.2143
+  大椿ゆうこ: 0.2143
+  串田誠一: 0.0000
+  赤松健: 0.0000
+  岩渕友: 0.0000
+
+Closeness Centrality (Top 5):
+  伊波洋一: 1.0000
+  大椿ゆうこ: 1.0000
+  串田誠一: 0.7000
+  赤松健: 0.7000
+  岩渕友: 0.7000
+
+Eigenvector Centrality (Top 5):
+  伊波洋一: 0.4629
+  大椿ゆうこ: 0.4629
+  串田誠一: 0.3086
+  赤松健: 0.3086
+  岩渕友: 0.3086

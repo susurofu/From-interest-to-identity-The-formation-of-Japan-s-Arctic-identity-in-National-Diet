@@ -1,0 +1,5 @@
+Topic 0: 環境 | 地球 | 問題 | 社会 | 温暖 | 日本 | 研究 | 世界 | 推進 | 大臣
+Topic 1: 大雪 | 災害 | 被害 | 除雪 | 新潟 | 状況 | 救助 | 雪崩 | 対策 | 積雪
+
+
+<coroutine object Translator.translate at 0x30b752490>

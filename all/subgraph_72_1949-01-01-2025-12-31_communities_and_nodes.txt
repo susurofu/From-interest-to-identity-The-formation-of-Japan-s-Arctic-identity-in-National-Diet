@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+渋谷敬三
+
+Community 2 (1 nodes):
+近江巳記夫
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  渋谷敬三: 1.0000
+  近江巳記夫: 1.0000
+
+Betweenness Centrality (Top 2):
+  渋谷敬三: 0.0000
+  近江巳記夫: 0.0000
+
+Closeness Centrality (Top 2):
+  渋谷敬三: 1.0000
+  近江巳記夫: 1.0000
+
+Eigenvector Centrality (Top 2):
+  渋谷敬三: 0.7071
+  近江巳記夫: 0.7071

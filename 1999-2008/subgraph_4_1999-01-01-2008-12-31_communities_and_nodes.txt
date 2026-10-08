@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+辻一彦
+
+Community 2 (1 nodes):
+有馬朗人
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  辻一彦: 1.0000
+  有馬朗人: 1.0000
+
+Betweenness Centrality (Top 2):
+  辻一彦: 0.0000
+  有馬朗人: 0.0000
+
+Closeness Centrality (Top 2):
+  辻一彦: 1.0000
+  有馬朗人: 1.0000
+
+Eigenvector Centrality (Top 2):
+  辻一彦: 0.7071
+  有馬朗人: 0.7071

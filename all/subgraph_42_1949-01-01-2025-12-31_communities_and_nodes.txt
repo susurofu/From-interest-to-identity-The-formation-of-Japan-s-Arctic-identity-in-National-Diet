@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (4 nodes):
+茂木敏充, 本多平直, 大西健介, 梶山弘志
+
+Community 2 (3 nodes):
+浅田均, 石田昌宏, 磯崎仁彦
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  梶山弘志: 0.6667
+  大西健介: 0.5000
+  磯崎仁彦: 0.5000
+  本多平直: 0.5000
+  茂木敏充: 0.5000
+
+Betweenness Centrality (Top 5):
+  磯崎仁彦: 0.6000
+  梶山弘志: 0.6000
+  大西健介: 0.0000
+  石田昌宏: 0.0000
+  浅田均: 0.0000
+
+Closeness Centrality (Top 5):
+  梶山弘志: 0.7500
+  磯崎仁彦: 0.6667
+  大西健介: 0.5455
+  本多平直: 0.5455
+  茂木敏充: 0.5455
+
+Eigenvector Centrality (Top 5):
+  梶山弘志: 0.5245
+  大西健介: 0.4727
+  本多平直: 0.4727
+  茂木敏充: 0.4727
+  磯崎仁彦: 0.2127

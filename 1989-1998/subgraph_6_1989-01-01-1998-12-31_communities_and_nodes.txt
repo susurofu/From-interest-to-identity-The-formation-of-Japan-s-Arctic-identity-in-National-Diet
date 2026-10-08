@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+河村武和
+
+Community 2 (1 nodes):
+吉田達男
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  河村武和: 1.0000
+  吉田達男: 1.0000
+
+Betweenness Centrality (Top 2):
+  河村武和: 0.0000
+  吉田達男: 0.0000
+
+Closeness Centrality (Top 2):
+  河村武和: 1.0000
+  吉田達男: 1.0000
+
+Eigenvector Centrality (Top 2):
+  河村武和: 0.7071
+  吉田達男: 0.7071

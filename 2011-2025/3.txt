@@ -1,0 +1,8 @@
+Topic 0: 日本 | ロシア | 中国 | 安全 | 問題 | 保障 | 外交 | 経済 | 世界 | 国際
+Topic 1: 教育 | 研究 | 学校 | 推進 | 文化 | 支援 | 大学 | スポーツ | 充実 | 進める
+Topic 2: 北極 | 航路 | 研究 | 海洋 | 観測 | 政策 | 科学 | 南極 | 政府 | 国際
+
+
+Topic 0: Japan | Russia | China | Security | Issues | Security | Diplomacy | Economy | World | International
+Topic 1: Education | Research | School | Promotion | Culture | Support | University | Sports | Enrichment | Proceed
+Topic 2: Arctic | Shipping Routes | Research | Ocean | Observation | Policy | Science | Antarctica | Government | International

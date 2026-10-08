@@ -1,0 +1,12 @@
+Topic 0: 日本 | 政府 | 明らか | 帰還 | 引揚 | 問題 | 国民 | 犠牲 | ソ連 | 今回
+Topic 1: 漁区 | 漁船 | 拡張 | 日本 | 近く | ライン | マツカーサー | 以つ | 総司令 | 承知
+Topic 2: 参考 | 日高 | 抽象 | 揚げる | バイカル | 方面 | 聞く | 残留 | カムチヤツカ | 抑留
+Topic 3: 状況 | 証人 | 途中 | 上木戸 | 発言 | 入る | ちよつと | 岡元 | 義人 | ナリンスク
+Topic 4: 見込 | 研究 | 寒い | 濕度 | 湿度 | 学術 | 余地 | 地質 | 高良 | とみ
+
+
+Topic 0: Japan | Government | Clear | Return | Repatriation | Issues | People | Sacrifice | Soviet Union | This time
+Topic 1: Fishing Areas | Fishing Boats | Expansion | Japan | Nearby | Line | Matsukathur | As such | Commander | Understanding
+Topic 2: Reference | Hidaka | Abstract | Fried | Baikal | Area | Listen | Remaining | Kamchiyatsuka | Deterrence
+Topic 3: Situation | Witness | In the middle | Kamikido | Comment | Enter | Chiyotsuto | Okamoto | Yoshito | Narinsk
+Topic 4: Prospect | Research | Cold | Humidity | Academic | Room | Geology | Takara | Tomi

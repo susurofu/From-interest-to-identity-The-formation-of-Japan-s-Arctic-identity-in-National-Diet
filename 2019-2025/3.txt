@@ -1,0 +1,6 @@
+Topic 0: 教育 | 研究 | 学校 | 推進 | 文化 | 支援 | 大学 | 進める | 充実 | スポーツ
+Topic 1: 北極 | 日本 | 航路 | 海洋 | ロシア | 国際 | lng | 我が国 | 非常 | 安全
+Topic 2: 協定 | 漁業 | 承認 | 締結 | 公海 | 求める | 条約 | 規制 | 水域 | 中央
+
+
+<coroutine object Translator.translate at 0x31f1d27a0>

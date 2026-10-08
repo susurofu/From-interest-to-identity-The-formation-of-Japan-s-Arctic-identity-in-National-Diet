@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (3 nodes):
+勝谷保, 高橋達直, 草川昭三
+
+Community 2 (7 nodes):
+磯田晋, 和田敏信, 和田静夫, 藤波孝生, 井上一成, 松尾邦彦, 後藤田正晴
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  井上一成: 0.6667
+  松尾邦彦: 0.5556
+  磯田晋: 0.5556
+  勝谷保: 0.4444
+  和田敏信: 0.4444
+
+Betweenness Centrality (Top 5):
+  勝谷保: 0.3889
+  井上一成: 0.3889
+  松尾邦彦: 0.2222
+  磯田晋: 0.1667
+  和田敏信: 0.0000
+
+Closeness Centrality (Top 5):
+  井上一成: 0.7500
+  磯田晋: 0.6923
+  勝谷保: 0.6000
+  松尾邦彦: 0.6000
+  和田敏信: 0.5625
+
+Eigenvector Centrality (Top 5):
+  井上一成: 0.4655
+  磯田晋: 0.4453
+  松尾邦彦: 0.4175
+  和田敏信: 0.3994
+  後藤田正晴: 0.3994

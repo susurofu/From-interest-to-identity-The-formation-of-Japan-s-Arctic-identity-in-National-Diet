@@ -1,0 +1,5 @@
+Topic 0: 石油 | ドーム | カナダ | 契約 | 会社 | 公団 | ドル | 資金 | 供与 | 探鉱
+Topic 1: 原子 | 日本 | アメリカ | 問題 | 飛行 | プルトニウム | ルート | 輸送 | 場合 | 協定
+
+
+<coroutine object Translator.translate at 0x30412a490>

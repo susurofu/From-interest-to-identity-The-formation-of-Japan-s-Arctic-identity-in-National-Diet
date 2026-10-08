@@ -1,0 +1,5 @@
+Topic 0: 問題 | 石油 | 原子 | エネルギー | 開発 | 日本 | 非常 | アメリカ | 資源 | 世界
+Topic 1: 気象 | 異常 | 予報 | 現象 | 観測 | 気温 | 長期 | 気候 | 天候 | 非常
+
+
+<coroutine object Translator.translate at 0x129bd5a10>

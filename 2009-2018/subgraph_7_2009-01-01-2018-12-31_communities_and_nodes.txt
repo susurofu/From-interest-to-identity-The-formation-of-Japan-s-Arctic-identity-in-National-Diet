@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+山田吉彦
+
+Community 2 (1 nodes):
+吉川ゆうみ
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  山田吉彦: 1.0000
+  吉川ゆうみ: 1.0000
+
+Betweenness Centrality (Top 2):
+  山田吉彦: 0.0000
+  吉川ゆうみ: 0.0000
+
+Closeness Centrality (Top 2):
+  山田吉彦: 1.0000
+  吉川ゆうみ: 1.0000
+
+Eigenvector Centrality (Top 2):
+  山田吉彦: 0.7071
+  吉川ゆうみ: 0.7071

@@ -1,0 +1,24 @@
+Topic 0: 日本 | 問題 | アメリカ | 被害 | 国際 | 国連 | ソ連 | 原子 | 非常 | 防衛
+Topic 1: 観測 | 南極 | 地球 | 学術 | 気象 | 現象 | 国際 | 日本 | 地域 | 予算
+Topic 2: 路線 | 欧州 | 航空 | どちら | 有利 | 通る | 東南 | アジア | 営業 | 政策
+Topic 3: 異議 | 請暇 | 二十七 | 諮る | 本名 | 欧米 | 本日 | 記念 | 日間 | 申し出
+Topic 4: 協定 | スイス | 法晴 | スカンジナヴィア | 経由 | 航空 | 吉田 | 航路 | 飛行 | 約定
+Topic 5: 帰還 | 引揚 | 政府 | 明らか | 地区 | 日本 | 死亡 | 今回 | ソ連 | 犠牲
+Topic 6: 日航 | 松本 | 北京 | ばく然 | はっきり | sas | 計画 | 研究 | いかが | 答弁
+Topic 7: 開発 | 資源 | 石油 | 調査 | 地域 | 地質 | 国内 | 技術 | 問題 | 地帯
+Topic 8: 組合 | 旅券 | 規定 | あぶない | 生命 | 輸出入 | 国益 | 放棄 | 北極 | 外務
+Topic 9: 漁区 | 漁船 | 拡張 | 以つ | 日本 | 大臣 | まする | マツカーサー | 承知 | 水産
+Topic 10: 参考 | 日高 | 抽象 | 揚げる | まする | バイカル | カムチヤツカ | 残留 | 抑留 | 看護
+
+
+Topic 0: Japan | Issues | America | Damage | International | United Nations | Soviet Union | Atom | Emergency | Defense
+Topic 1: Observations | Antarctic | Earth | Academic | Weather | Phenomena | International | Japan | Region | Budget
+Topic 2: Routes | Europe | Aviation | Which | Benefit | Pass | Southeast | Asia | Business | Policy
+Topic 3: Objection | Requesting time | 27 | Consulting | Real name | Europe and the United States | Today | Commemorative | Days | Offer
+Topic 4: Agreement | Switzerland | Hoharu | Scandinavia | Via | Aviation | Yoshida | Route | Flight | Provisions
+Topic 5: Return | Retirement | Government | Clear | District | Japan | Death | This time | Soviet Union | Sacrifice
+Topic 6: Japan Airlines | Matsumoto | Beijing | Bakuren | Clear | Sas | Plan | Research | How | Answer
+Topic 7: Development | Resources | Petroleum | Survey | Region | Geology | Domestic | Technology | Problems | Zone
+Topic 8: Union | Passport | Regulations | Abnormal | Life | Import and export | National interest | Abandonment | Arctic | Foreign affairs
+Topic 9: Fishing Areas | Fishing Boats | Expansion | Japan | Minister | Masuru | Matsukathur | Know | Fisheries
+Topic 10: Reference | Hidaka | Abstract | Fried | Masuru | Baikal | Kamchiyatsuka | Remaining | Internment | Nursing

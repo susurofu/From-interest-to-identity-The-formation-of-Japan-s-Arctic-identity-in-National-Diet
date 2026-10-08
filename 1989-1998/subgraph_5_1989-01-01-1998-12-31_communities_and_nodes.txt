@@ -1,0 +1,29 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+東祥三
+
+Community 2 (2 nodes):
+古市圭治, 鈴木久
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 3):
+  東祥三: 1.0000
+  古市圭治: 1.0000
+  鈴木久: 1.0000
+
+Betweenness Centrality (Top 3):
+  東祥三: 0.0000
+  古市圭治: 0.0000
+  鈴木久: 0.0000
+
+Closeness Centrality (Top 3):
+  東祥三: 1.0000
+  古市圭治: 1.0000
+  鈴木久: 1.0000
+
+Eigenvector Centrality (Top 3):
+  東祥三: 0.5774
+  古市圭治: 0.5774
+  鈴木久: 0.5774

@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+新美潤
+
+Community 2 (4 nodes):
+長田太, 徳地秀士, 伊佐進一, 中山泰秀
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  新美潤: 1.0000
+  伊佐進一: 1.0000
+  中山泰秀: 1.0000
+  長田太: 1.0000
+  徳地秀士: 1.0000
+
+Betweenness Centrality (Top 5):
+  新美潤: 0.0000
+  伊佐進一: 0.0000
+  中山泰秀: 0.0000
+  長田太: 0.0000
+  徳地秀士: 0.0000
+
+Closeness Centrality (Top 5):
+  新美潤: 1.0000
+  伊佐進一: 1.0000
+  中山泰秀: 1.0000
+  長田太: 1.0000
+  徳地秀士: 1.0000
+
+Eigenvector Centrality (Top 5):
+  新美潤: 0.4472
+  伊佐進一: 0.4472
+  中山泰秀: 0.4472
+  長田太: 0.4472
+  徳地秀士: 0.4472

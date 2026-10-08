@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+茅陽一
+
+Community 2 (1 nodes):
+村沢牧
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  茅陽一: 1.0000
+  村沢牧: 1.0000
+
+Betweenness Centrality (Top 2):
+  茅陽一: 0.0000
+  村沢牧: 0.0000
+
+Closeness Centrality (Top 2):
+  茅陽一: 1.0000
+  村沢牧: 1.0000
+
+Eigenvector Centrality (Top 2):
+  茅陽一: 0.7071
+  村沢牧: 0.7071

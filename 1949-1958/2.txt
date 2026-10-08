@@ -1,0 +1,5 @@
+Topic 0: 日本 | 問題 | 航空 | 非常 | 協定 | 政府 | アメリカ | 路線 | 大臣 | 北極
+Topic 1: 観測 | 南極 | 地球 | 学術 | 気象 | 地域 | 日本 | 現象 | 国際 | 予算
+
+
+<coroutine object Translator.translate at 0x12af3e340>

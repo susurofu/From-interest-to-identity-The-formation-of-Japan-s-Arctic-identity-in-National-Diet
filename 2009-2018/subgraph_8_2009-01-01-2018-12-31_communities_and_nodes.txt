@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+植松恵美子
+
+Community 2 (1 nodes):
+吉野正芳
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  植松恵美子: 1.0000
+  吉野正芳: 1.0000
+
+Betweenness Centrality (Top 2):
+  植松恵美子: 0.0000
+  吉野正芳: 0.0000
+
+Closeness Centrality (Top 2):
+  植松恵美子: 1.0000
+  吉野正芳: 1.0000
+
+Eigenvector Centrality (Top 2):
+  植松恵美子: 0.7071
+  吉野正芳: 0.7071

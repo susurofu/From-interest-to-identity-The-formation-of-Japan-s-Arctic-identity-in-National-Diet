@@ -1,0 +1,26 @@
+Topic 0: 教育 | 学校 | 研究 | 推進 | 文化 | 支援 | 大学 | 充実 | スポーツ | 進める
+Topic 1: 日本 | 北極 | やっぱり | 評議 | ありがとう | 非常 | 池島 | 科学 | 国々 | いろんな
+Topic 2: 外交 | 強化 | 協力 | 平和 | 国際 | 連携 | 安全 | 推進 | 保障 | 経済
+Topic 3: 航路 | 輸送 | 北極 | lng | 利用 | コンテナ | 海運 | 通航 | 利活用 | 定期
+Topic 4: 海洋 | 調査 | 国際 | 資源 | 環境 | 取組 | 開発 | 保全 | 政策 | 生物
+Topic 5: 研究 | 観測 | 極域 | 北極 | 科学 | データ | 南極 | 地球 | 重要 | 育成
+Topic 6: lng | ロシア | 供給 | プロジェクト | 出資 | エネルギー | サハリン | ガス | 天然 | 制裁
+Topic 7: 気候 | 変動 | 保障 | 安全 | 影響 | 地球 | アメリカ | 温暖 | 中国 | 上昇
+Topic 8: 航空 | ルート | ロシア | 運航 | 会社 | 領空 | 各社 | 欧州 | 南回り | 経由
+Topic 9: けど | メートル | 南極 | 上昇 | 解ける | 海面 | 伊波 | 洋一 | トッテン | 上がる
+Topic 10: かえる | 積む | jogmec | こんな | わかる | 基地 | リスク | 民間 | 事業 | 大臣
+Topic 11: 凍土 | 永久 | 融解 | シベリア | 感染 | 温暖 | メタンガス | 解ける | 炭疽 | 環境
+
+
+Topic 0: Education | Schools | Research | Promotion | Culture | Support | University | Enrichment | Sports | Advance
+Topic 1: Japan | Arctic | As expected | Council | Thank you | Extreme | Ikeshima | Science | Countries | Various
+Topic 2: Diplomacy | Strengthening | Cooperation | Peace | International | Cooperation | Safety | Promotion | Security | Economics
+Topic 3: Routes | Transport | Arctic | lng | Usage | Containers | Shipping | Navigation | Utilization | Regular
+Topic 4: Oceans | Survey | International | Resources | Environment | Efforts | Development | Conservation | Policy | Biology
+Topic 5: Research | Observations | Polar Regions | Arctic | Science | Data | Antarctica | Earth | Important | Cultivation
+Topic 6: lng | Russia | Supply | Projects | Investment | Energy | Sakhalin | Gas | Natural | Sanctions
+Topic 7: Climate | Variation | Security | Safety | Impact | Earth | America | Warm | China | Rise
+Topic 8: Airlines | Routes | Russia | Flights | Company | Airspace | Companies | Europe | Southern Routes | Via
+Topic 9: But | Meter | Antarctica | Rise | Solve | Sea Level | Iwa | Yoichi | Totten | Rise
+Topic 10: Frog | Loading | jogmec | This | Understanding | Base | Risk | Private sector | Business | Minister
+Topic 11: Frost | Permanent | Melt | Siberia | Infection | Warm | Methane Gas | Thaw | Anthrax | Environment

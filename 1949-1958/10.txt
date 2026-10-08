@@ -1,0 +1,22 @@
+Topic 0: 日本 | 問題 | アメリカ | 被害 | 国連 | 国際 | ソ連 | 原子 | 外務 | 防衛
+Topic 1: 観測 | 南極 | 地球 | 学術 | 現象 | 気象 | 日本 | 国際 | 地域 | 予算
+Topic 2: 路線 | 欧州 | 有利 | どちら | 東南 | 通る | 政策 | アジア | 吉行 | 営業
+Topic 3: 異議 | 請暇 | 二十七 | 欧米 | 諮る | 本名 | 本日 | 記念 | 日間 | 開設
+Topic 4: 協定 | スイス | 法晴 | 経由 | 吉田 | スカンジナヴィア | 約定 | 航路 | 発展 | 得る
+Topic 5: 日航 | 松本 | 北京 | ばく然 | 研究 | はっきり | sas | 答弁 | 計画 | 北極
+Topic 6: 参考 | 地区 | 帰還 | 死亡 | 政府 | 引揚 | 残留 | 明らか | 日本 | 日高
+Topic 7: 開発 | 資源 | 石油 | 調査 | 地域 | 地質 | 技術 | 国内 | 問題 | 地帯
+Topic 8: 漁区 | 漁船 | 拡張 | 以つ | 日本 | 大臣 | 水産 | マツカーサー | 総司令 | 国務
+Topic 9: 航空 | 飛行 | 国際 | 年度 | 非常 | くらい | 会社 | 空港 | 乗り入れ | だんだん
+
+
+Topic 0: Japan | Issues | America | Damage | United Nations | International | Soviet Union | Atomic | Foreign Affairs | Defense
+Topic 1: Observation | Antarctica | Earth | Academic | Phenomena | Weather | Japan | International | Region | Budget
+Topic 2: Route | Europe | Advantages | Which | Southeast | Pass | Policy | Asia | Yoshiyuki | Sales
+Topic 3: Objection | Request | Twenty-seven | Europe and America | Consultation | Real name | Today | Commemoration | Days | Establishment
+Topic 4: Agreement | Switzerland | Noriharu | Via | Yoshida | Scandinavia | Contract | Route | Development | Obtain
+Topic 5: Nikko | Matsumoto | Beijing | Surprise | Research | Clear | sas | Answer | Plan | Arctic
+Topic 6: Reference | District | Return | Death | Government | Repatriation | Remaining | Obvious | Japan | Hidaka
+Topic 7: Development | Resources | Petroleum | Exploration | Region | Geology | Technology | Domestic | Issues | Zone
+Topic 8: Fishing Area | Fishing Boats | Expansion | Tsutsu | Japan | Minister | Fisheries | Matsukasa | Commander-in-Chief | State Affairs
+Topic 9: Aviation | Flight | International | Year | Emergency | About | Company | Airport | Access | Gradually

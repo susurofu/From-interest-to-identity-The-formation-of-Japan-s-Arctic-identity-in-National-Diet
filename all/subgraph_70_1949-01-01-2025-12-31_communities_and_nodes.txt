@@ -1,0 +1,33 @@
+### Communities Detected ###
+
+Community 1 (3 nodes):
+茅誠司, 永田武, 長谷川万吉
+
+Community 2 (1 nodes):
+長谷川峻
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 4):
+  永田武: 1.0000
+  茅誠司: 0.6667
+  長谷川万吉: 0.6667
+  長谷川峻: 0.3333
+
+Betweenness Centrality (Top 4):
+  永田武: 0.6667
+  茅誠司: 0.0000
+  長谷川万吉: 0.0000
+  長谷川峻: 0.0000
+
+Closeness Centrality (Top 4):
+  永田武: 1.0000
+  茅誠司: 0.7500
+  長谷川万吉: 0.7500
+  長谷川峻: 0.6000
+
+Eigenvector Centrality (Top 4):
+  永田武: 0.6116
+  茅誠司: 0.5227
+  長谷川万吉: 0.5227
+  長谷川峻: 0.2818

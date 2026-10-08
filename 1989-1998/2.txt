@@ -1,0 +1,5 @@
+Topic 0: 地球 | オゾン | 問題 | 環境 | 観測 | 研究 | 日本 | 非常 | 南極 | 海洋
+Topic 1: 石油 | 公団 | 会社 | 事業 | 検査 | 開発 | 損失 | 会計 | 回収 | 報告
+
+
+<coroutine object Translator.translate at 0x30a2f9af0>

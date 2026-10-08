@@ -1,0 +1,70 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+久保三郎
+
+Community 2 (2 nodes):
+今井榮文, 田村幸策
+
+Community 3 (3 nodes):
+杠文吉, 佐藤尚武, 岡良一
+
+Community 4 (3 nodes):
+小林進, 栃内一彦, 加藤シヅエ
+
+Community 5 (2 nodes):
+松尾静磨, 北原秀雄
+
+Community 6 (3 nodes):
+村山雅美, 本多敏治, 原茂
+
+Community 7 (2 nodes):
+山本伊三郎, 芥川輝孝
+
+Community 8 (2 nodes):
+島村武久, 村田浩
+
+Community 9 (2 nodes):
+帆足計, 松尾静麿
+
+Community 10 (2 nodes):
+椎名悦三郎, 永末英一
+
+Community 11 (2 nodes):
+長谷川峻, 永田武
+
+Community 12 (2 nodes):
+相澤重明, 辻章男
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  今井榮文: 0.0800
+  岡良一: 0.0800
+  栃内一彦: 0.0800
+  原茂: 0.0800
+  本多敏治: 0.0800
+
+Betweenness Centrality (Top 5):
+  今井榮文: 0.0033
+  岡良一: 0.0033
+  栃内一彦: 0.0033
+  久保三郎: 0.0000
+  田村幸策: 0.0000
+
+Closeness Centrality (Top 5):
+  今井榮文: 0.0800
+  岡良一: 0.0800
+  栃内一彦: 0.0800
+  原茂: 0.0800
+  本多敏治: 0.0800
+
+Eigenvector Centrality (Top 5):
+  原茂: 0.5774
+  本多敏治: 0.5774
+  村山雅美: 0.5774
+  今井榮文: 0.0000
+  岡良一: 0.0000
+
+### Nodes Concentration ###
+Concentration: 0.3

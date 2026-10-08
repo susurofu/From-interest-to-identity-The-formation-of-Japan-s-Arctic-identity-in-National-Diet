@@ -1,0 +1,37 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+角南篤
+
+Community 2 (4 nodes):
+斉藤鉄夫, 室井邦彦, 海谷厚志, 大野泰正
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 5):
+  角南篤: 1.0000
+  海谷厚志: 1.0000
+  斉藤鉄夫: 1.0000
+  室井邦彦: 1.0000
+  大野泰正: 1.0000
+
+Betweenness Centrality (Top 5):
+  角南篤: 0.0000
+  海谷厚志: 0.0000
+  斉藤鉄夫: 0.0000
+  室井邦彦: 0.0000
+  大野泰正: 0.0000
+
+Closeness Centrality (Top 5):
+  角南篤: 1.0000
+  海谷厚志: 1.0000
+  斉藤鉄夫: 1.0000
+  室井邦彦: 1.0000
+  大野泰正: 1.0000
+
+Eigenvector Centrality (Top 5):
+  角南篤: 0.4472
+  海谷厚志: 0.4472
+  斉藤鉄夫: 0.4472
+  室井邦彦: 0.4472
+  大野泰正: 0.4472

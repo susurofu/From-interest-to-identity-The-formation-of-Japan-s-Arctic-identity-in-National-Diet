@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+南亮
+
+Community 2 (1 nodes):
+和田義明
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  南亮: 1.0000
+  和田義明: 1.0000
+
+Betweenness Centrality (Top 2):
+  南亮: 0.0000
+  和田義明: 0.0000
+
+Closeness Centrality (Top 2):
+  南亮: 1.0000
+  和田義明: 1.0000
+
+Eigenvector Centrality (Top 2):
+  南亮: 0.7071
+  和田義明: 0.7071

@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+吉良州司
+
+Community 2 (1 nodes):
+黄川田仁志
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  吉良州司: 1.0000
+  黄川田仁志: 1.0000
+
+Betweenness Centrality (Top 2):
+  吉良州司: 0.0000
+  黄川田仁志: 0.0000
+
+Closeness Centrality (Top 2):
+  吉良州司: 1.0000
+  黄川田仁志: 1.0000
+
+Eigenvector Centrality (Top 2):
+  吉良州司: 0.7071
+  黄川田仁志: 0.7071

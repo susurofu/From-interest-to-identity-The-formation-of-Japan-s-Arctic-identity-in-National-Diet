@@ -1,0 +1,26 @@
+Topic 0: 明らか | 帰還 | 政府 | 引揚 | 犠牲 | ソ連 | 国民 | 発表 | 今回 | 地区
+Topic 1: 漁区 | 拡張 | 漁船 | 近く | 赤道 | 両極 | ケ月 | 限局 | 提案 | 軽視
+Topic 2: 残留 | 食い違い | 参考 | 十一 | 死亡 | 事実 | 現在 | 重き | 棒ぐい | 国境
+Topic 3: 状況 | 上木戸 | 証人 | 途中 | ちよつと | 入る | 発言 | 岡元 | 義人 | ナリンスク
+Topic 4: 見込 | 研究 | 地質 | とみ | 余地 | 高良 | 湿度 | 濕度 | 学術 | 寒い
+Topic 5: 安定 | 日本 | 状態 | まつ | 込める | 軌道 | 外国 | 一層 | 貿易 | 来る
+Topic 6: 長官 | 立法 | 全会 | 問題 | 而も | 恐らく | 所見 | 了解 | 措置 | 議員
+Topic 7: 揚げる | 方面 | ほとんど | 全然 | 先ほど | 見当 | アジア | 住む | 中央 | カムチヤツカ
+Topic 8: 克服 | 停止 | 輸出 | 手段 | インフレーシヨン | あらゆる | 予算 | 年度 | 上る | 物価
+Topic 9: 日本 | 外交 | 條約 | アメリカ | 主義 | 戰争 | 武力 | 問題 | 国家 | アジア
+Topic 10: 参考 | 抽象 | 看護 | 使用 | わかる | バイカル | 働かす | 近い | 今度 | なお
+Topic 11: 総司令 | 以つ | 漁船 | 漁区 | 報告 | 監視 | 重ねる | 海上 | 保安 | 拿捕
+
+
+Topic 0: Clear | Return | Government | Retirement | Sacrifice | Soviet Union | People | Announcement | This time | District
+Topic 1: Fishing area | Expansion | Fishing boats | Nearby | Equator | Both poles | Month | Limited area | Proposal | Disregard
+Topic 2: Remaining | Disparity | Reference | 11 | Death | Facts | Present | Heavy | Stick | Border
+Topic 3: Situation | Kamigido | Witness | On the way | Chiyotsuto | Enter | Comment | Okamoto | Yoshito | Narinsk
+Topic 4: Prospect | Research | Geology | Tomi | Room | Takara | Humidity | Fluidity | Academic | Cold
+Topic 5: Stable | Japan | Condition | Matsu | Entry | Track | Foreign | First level | Trade | Coming
+Topic 6: Director-General | Legislation | All Assembly | Issues | But perhaps | Findings | Understandings | Measures | Parliamentary
+Topic 7: Frying | Area | Most | Not all | Earlier | Registration | Asia | Living | Central | Kamchiyatsuka
+Topic 8: Overcoming | Stop | Export | Means | Inflammation | Any | Budget | Year | Up | Prices
+Topic 9: Japan | Diplomacy | Treaty | America | Issues | Warfare | Armed Force | Issues | States | Asia
+Topic 10: Reference | Abstract | Nursing | Usage | Understanding | Baikal | Working | Close | Next time |
+Topic 11: Commander | Other | Fishing Boats | Fishing Areas | Reports | Surveillance | Overlay | Maritime | Security | Capture

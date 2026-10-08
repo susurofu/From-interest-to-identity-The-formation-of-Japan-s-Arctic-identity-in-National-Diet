@@ -1,0 +1,10 @@
+Topic 0: 教育 | 研究 | 学校 | 推進 | 文化 | 支援 | 大学 | 充実 | スポーツ | 進める
+Topic 1: 北極 | 研究 | 日本 | 観測 | 気候 | 科学 | 南極 | 変動 | 影響 | 非常
+Topic 2: 外交 | 海洋 | 強化 | 国際 | 協力 | 安全 | 保障 | 連携 | 平和 | 推進
+Topic 3: lng | 航路 | ロシア | 北極 | 輸送 | プロジェクト | 供給 | jogmec | 出資 | エネルギー
+
+
+Topic 0: Education | Research | Schools | Promotion | Culture | Support | University | Enrichment | Sports | Advance
+Topic 1: Arctic | Research | Japan | Observations | Climate | Science | Antarctica | Variation | Impact | Emergency
+Topic 2: Diplomacy | Ocean | Strengthening | International | Cooperation | Safety | Security | Cooperation | Peace | Promotion
+Topic 3: lng | Route | Russia | Arctic | Transport | Project | Supply | jogmec | Investment | Energy

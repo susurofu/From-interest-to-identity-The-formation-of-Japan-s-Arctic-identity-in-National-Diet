@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+湯山勇
+
+Community 2 (1 nodes):
+佐藤観樹
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  湯山勇: 1.0000
+  佐藤観樹: 1.0000
+
+Betweenness Centrality (Top 2):
+  湯山勇: 0.0000
+  佐藤観樹: 0.0000
+
+Closeness Centrality (Top 2):
+  湯山勇: 1.0000
+  佐藤観樹: 1.0000
+
+Eigenvector Centrality (Top 2):
+  湯山勇: 0.7071
+  佐藤観樹: 0.7071

@@ -1,0 +1,33 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+岡崎トミ子
+
+Community 2 (3 nodes):
+岩佐恵美, 福本潤一, 風間昶
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 4):
+  岡崎トミ子: 1.0000
+  岩佐恵美: 1.0000
+  福本潤一: 1.0000
+  風間昶: 1.0000
+
+Betweenness Centrality (Top 4):
+  岡崎トミ子: 0.0000
+  岩佐恵美: 0.0000
+  福本潤一: 0.0000
+  風間昶: 0.0000
+
+Closeness Centrality (Top 4):
+  岡崎トミ子: 1.0000
+  岩佐恵美: 1.0000
+  福本潤一: 1.0000
+  風間昶: 1.0000
+
+Eigenvector Centrality (Top 4):
+  岡崎トミ子: 0.5000
+  岩佐恵美: 0.5000
+  福本潤一: 0.5000
+  風間昶: 0.5000

@@ -1,0 +1,96 @@
+### Communities Detected ###
+
+Community 1 (3 nodes):
+Suzuki Hitoshi, Furuichi Keiji, Azuma Shoujou
+
+Community 2 (3 nodes):
+Nishiyama Tokiko, Mizuno Seiichi, Kanou Tokio
+
+Community 3 (3 nodes):
+Udou Masaharu, Yamanaka Akiko, Suehiro Makiko
+
+Community 4 (2 nodes):
+並木正芳, 工藤智規
+
+Community 5 (2 nodes):
+中村正三郎, 戸田菊雄
+
+Community 6 (2 nodes):
+小川光吉, 加藤修一
+
+Community 7 (2 nodes):
+河村武和, 吉田達男
+
+Community 8 (2 nodes):
+坂田俊文, 寺本俊彦
+
+Community 9 (2 nodes):
+小島慶三, 能登勇
+
+Community 10 (2 nodes):
+石垣一夫, 稲川泰弘
+
+Community 11 (2 nodes):
+島桂次, 青木賢児
+
+Community 12 (2 nodes):
+矢原秀男, 白井太
+
+Community 13 (2 nodes):
+石井敏弘, 荒木清寛
+
+Community 14 (2 nodes):
+鳩山邦夫, 高野幸二郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Azuma Shoujou: 0.0667
+  Furuichi Keiji: 0.0667
+  Suzuki Hitoshi: 0.0667
+  Kanou Tokio: 0.0667
+  Mizuno Seiichi: 0.0667
+  Nishiyama Tokiko: 0.0667
+  Suehiro Makiko: 0.0667
+  Udou Masaharu: 0.0667
+  Yamanaka Akiko: 0.0667
+  小川光吉: 0.0667
+
+Betweenness Centrality (Top 10):
+  小川光吉: 0.0046
+  石垣一夫: 0.0046
+  Azuma Shoujou: 0.0000
+  Furuichi Keiji: 0.0000
+  Suzuki Hitoshi: 0.0000
+  Kanou Tokio: 0.0000
+  Mizuno Seiichi: 0.0000
+  Nishiyama Tokiko: 0.0000
+  Suehiro Makiko: 0.0000
+  Udou Masaharu: 0.0000
+
+Closeness Centrality (Top 10):
+  小川光吉: 0.0750
+  石垣一夫: 0.0750
+  Azuma Shoujou: 0.0667
+  Furuichi Keiji: 0.0667
+  Suzuki Hitoshi: 0.0667
+  Kanou Tokio: 0.0667
+  Mizuno Seiichi: 0.0667
+  Nishiyama Tokiko: 0.0667
+  Suehiro Makiko: 0.0667
+  Udou Masaharu: 0.0667
+
+Eigenvector Centrality (Top 10):
+  Azuma Shoujou: 0.3333
+  Furuichi Keiji: 0.3333
+  Suzuki Hitoshi: 0.3333
+  Kanou Tokio: 0.3333
+  Mizuno Seiichi: 0.3333
+  Nishiyama Tokiko: 0.3333
+  Suehiro Makiko: 0.3333
+  Udou Masaharu: 0.3333
+  Yamanaka Akiko: 0.3333
+  小川光吉: 0.0001
+
+### Nodes Concentration ###
+Concentration: 0.47

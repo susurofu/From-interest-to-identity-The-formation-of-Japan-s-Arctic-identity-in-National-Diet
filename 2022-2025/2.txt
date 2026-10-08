@@ -1,0 +1,5 @@
+Topic 0: 教育 | 研究 | 学校 | 推進 | 文化 | 進める | 支援 | 充実 | 大学 | 科学
+Topic 1: ロシア | 日本 | 安全 | 保障 | 外交 | 北極 | 国際 | ウクライナ | 航路 | 強化
+
+
+<coroutine object Translator.translate at 0x329fb46d0>

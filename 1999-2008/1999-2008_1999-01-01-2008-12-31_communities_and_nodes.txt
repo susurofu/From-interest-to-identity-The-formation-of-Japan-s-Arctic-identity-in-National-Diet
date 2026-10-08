@@ -1,0 +1,78 @@
+### Communities Detected ###
+
+Community 1 (4 nodes):
+Iwasa Emi, Kazama Hisashi, Fukumoto Jun'ichi, Okizawa Tomiko
+
+Community 2 (2 nodes):
+Tsuji Kazuhiko, 有馬朗人
+
+Community 3 (2 nodes):
+Tsumura Keisuke, 松島みどり
+
+Community 4 (3 nodes):
+大野つや子, 中曽根弘文, 河野洋平
+
+Community 5 (3 nodes):
+高村正彦, 増原義剛, 赤松正雄
+
+Community 6 (1 nodes):
+浜田昌良
+
+Community 7 (2 nodes):
+鴇田勝彦, 田名部匡省
+
+Community 8 (2 nodes):
+鮎川ゆりか, 西岡秀三
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Fukumoto Jun'ichi: 0.1667
+  Iwasa Emi: 0.1667
+  Kazama Hisashi: 0.1667
+  Okizawa Tomiko: 0.1667
+  高村正彦: 0.1667
+  中曽根弘文: 0.1111
+  大野つや子: 0.1111
+  河野洋平: 0.1111
+  増原義剛: 0.1111
+  赤松正雄: 0.1111
+
+Betweenness Centrality (Top 10):
+  高村正彦: 0.0131
+  Fukumoto Jun'ichi: 0.0000
+  Iwasa Emi: 0.0000
+  Kazama Hisashi: 0.0000
+  Okizawa Tomiko: 0.0000
+  Tsuji Kazuhiko: 0.0000
+  有馬朗人: 0.0000
+  Tsumura Keisuke: 0.0000
+  松島みどり: 0.0000
+  中曽根弘文: 0.0000
+
+Closeness Centrality (Top 10):
+  Fukumoto Jun'ichi: 0.1667
+  Iwasa Emi: 0.1667
+  Kazama Hisashi: 0.1667
+  Okizawa Tomiko: 0.1667
+  高村正彦: 0.1667
+  増原義剛: 0.1250
+  赤松正雄: 0.1250
+  中曽根弘文: 0.1111
+  大野つや子: 0.1111
+  河野洋平: 0.1111
+
+Eigenvector Centrality (Top 10):
+  Fukumoto Jun'ichi: 0.5000
+  Iwasa Emi: 0.5000
+  Kazama Hisashi: 0.5000
+  Okizawa Tomiko: 0.5000
+  高村正彦: 0.0000
+  増原義剛: 0.0000
+  赤松正雄: 0.0000
+  浜田昌良: 0.0000
+  中曽根弘文: 0.0000
+  大野つや子: 0.0000
+
+### Nodes Concentration ###
+Concentration: 0.23

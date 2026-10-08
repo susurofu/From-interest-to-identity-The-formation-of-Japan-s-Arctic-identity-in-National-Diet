@@ -1,0 +1,29 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+大野義晴
+
+Community 2 (2 nodes):
+大野義輝, 千葉七郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 3):
+  大野義晴: 1.0000
+  千葉七郎: 1.0000
+  大野義輝: 1.0000
+
+Betweenness Centrality (Top 3):
+  大野義晴: 0.0000
+  千葉七郎: 0.0000
+  大野義輝: 0.0000
+
+Closeness Centrality (Top 3):
+  大野義晴: 1.0000
+  千葉七郎: 1.0000
+  大野義輝: 1.0000
+
+Eigenvector Centrality (Top 3):
+  大野義晴: 0.5774
+  千葉七郎: 0.5774
+  大野義輝: 0.5774

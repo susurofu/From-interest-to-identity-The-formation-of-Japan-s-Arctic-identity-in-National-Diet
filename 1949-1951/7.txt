@@ -1,0 +1,16 @@
+Topic 0: 明らか | 帰還 | 政府 | 引揚 | 日本 | 国民 | ソ連 | 発表 | 犠牲 | 地区
+Topic 1: 漁区 | 漁船 | 拡張 | 近く | 日本 | ライン | マツカーサー | 総司令 | 通り | 以つ
+Topic 2: 参考 | 日高 | 抽象 | 揚げる | バイカル | 方面 | 聞く | 残留 | カムチヤツカ | 抑留
+Topic 3: 状況 | 途中 | 上木戸 | 証人 | ちよつと | 入る | 発言 | 岡元 | ナリンスク | 義人
+Topic 4: 見込 | 研究 | 湿度 | とみ | 寒い | 濕度 | 高良 | 地質 | 尾瀬沼 | 学術
+Topic 5: 日本 | 安定 | 克服 | 状態 | 停止 | 貿易 | 上る | 物価 | 輸出 | 或いは
+Topic 6: 長官 | 立法 | 全会 | 問題 | 而も | 恐らく | 所見 | 了解 | 修正 | 措置
+
+
+Topic 0: Clear | Return | Government | Retirement | Japan | People | Soviet Union | Announcement | Sacrifice | District
+Topic 1: Fishing Areas | Fishing Boats | Expansion | Nearby | Japan | Line | Matsukathur | Commander | Street |
+Topic 2: Reference | Hidaka | Abstract | Fried | Baikal | Area | Listen | Remaining | Kamchiyatsuka | Deterrence
+Topic 3: Status | In the middle | Kamigido | Witness | Chiyotsuto | Enter | Comment | Okamoto | Narinsk | Yoshito
+Topic 4: Prospect | Research | Humidity | Tomi | Cold | Crisis | Takara | Geology | Ozemuma | Academic
+Topic 5: Japan | Stability | Overcoming | Condition | Stop | Trade | Up | Price | Export | Or
+Topic 6: Director | Legislation | All the Assembly | Issues | And perhaps | Findings | Understanding | Amendments | Measures

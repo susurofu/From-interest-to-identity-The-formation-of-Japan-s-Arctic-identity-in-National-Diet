@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+鈴木敦
+
+Community 2 (1 nodes):
+緒方林太郎
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  鈴木敦: 1.0000
+  緒方林太郎: 1.0000
+
+Betweenness Centrality (Top 2):
+  鈴木敦: 0.0000
+  緒方林太郎: 0.0000
+
+Closeness Centrality (Top 2):
+  鈴木敦: 1.0000
+  緒方林太郎: 1.0000
+
+Eigenvector Centrality (Top 2):
+  鈴木敦: 0.7071
+  緒方林太郎: 0.7071

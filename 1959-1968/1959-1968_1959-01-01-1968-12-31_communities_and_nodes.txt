@@ -1,0 +1,90 @@
+### Communities Detected ###
+
+Community 1 (3 nodes):
+Hara Shigeru, Matsuyama Masayoshi, Honda Toshiharu
+
+Community 2 (2 nodes):
+Imai Eibun, Tamura Kousaku
+
+Community 3 (1 nodes):
+Kubo Saburou
+
+Community 4 (3 nodes):
+杠文吉, Oka Ryouichi, Satou Naotake
+
+Community 5 (3 nodes):
+Tochiuchi Kazuhiko, 小林進, 加藤シヅエ
+
+Community 6 (2 nodes):
+松尾静磨, 北原秀雄
+
+Community 7 (2 nodes):
+山本伊三郎, 芥川輝孝
+
+Community 8 (2 nodes):
+村田浩, 島村武久
+
+Community 9 (2 nodes):
+松尾静麿, 帆足計
+
+Community 10 (2 nodes):
+椎名悦三郎, 永末英一
+
+Community 11 (2 nodes):
+永田武, 長谷川峻
+
+Community 12 (2 nodes):
+相澤重明, 辻章男
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Hara Shigeru: 0.0800
+  Honda Toshiharu: 0.0800
+  Matsuyama Masayoshi: 0.0800
+  Imai Eibun: 0.0800
+  Oka Ryouichi: 0.0800
+  Tochiuchi Kazuhiko: 0.0800
+  Kubo Saburou: 0.0400
+  Tamura Kousaku: 0.0400
+  Satou Naotake: 0.0400
+  杠文吉: 0.0400
+
+Betweenness Centrality (Top 10):
+  Imai Eibun: 0.0033
+  Oka Ryouichi: 0.0033
+  Tochiuchi Kazuhiko: 0.0033
+  Hara Shigeru: 0.0000
+  Honda Toshiharu: 0.0000
+  Matsuyama Masayoshi: 0.0000
+  Kubo Saburou: 0.0000
+  Tamura Kousaku: 0.0000
+  Satou Naotake: 0.0000
+  杠文吉: 0.0000
+
+Closeness Centrality (Top 10):
+  Hara Shigeru: 0.0800
+  Honda Toshiharu: 0.0800
+  Matsuyama Masayoshi: 0.0800
+  Imai Eibun: 0.0800
+  Oka Ryouichi: 0.0800
+  Tochiuchi Kazuhiko: 0.0800
+  Kubo Saburou: 0.0533
+  Tamura Kousaku: 0.0533
+  Satou Naotake: 0.0533
+  杠文吉: 0.0533
+
+Eigenvector Centrality (Top 10):
+  Hara Shigeru: 0.5774
+  Honda Toshiharu: 0.5774
+  Matsuyama Masayoshi: 0.5774
+  Imai Eibun: 0.0000
+  Oka Ryouichi: 0.0000
+  Tochiuchi Kazuhiko: 0.0000
+  Kubo Saburou: 0.0000
+  Tamura Kousaku: 0.0000
+  Satou Naotake: 0.0000
+  杠文吉: 0.0000
+
+### Nodes Concentration ###
+Concentration: 0.3

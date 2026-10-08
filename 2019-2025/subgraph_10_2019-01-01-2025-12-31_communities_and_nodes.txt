@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+佐伯浩治
+
+Community 2 (1 nodes):
+小林鷹之
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  佐伯浩治: 1.0000
+  小林鷹之: 1.0000
+
+Betweenness Centrality (Top 2):
+  佐伯浩治: 0.0000
+  小林鷹之: 0.0000
+
+Closeness Centrality (Top 2):
+  佐伯浩治: 1.0000
+  小林鷹之: 1.0000
+
+Eigenvector Centrality (Top 2):
+  佐伯浩治: 0.7071
+  小林鷹之: 0.7071

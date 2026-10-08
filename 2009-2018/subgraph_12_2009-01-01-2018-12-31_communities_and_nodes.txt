@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+新藤義孝
+
+Community 2 (1 nodes):
+安倍晋三
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  新藤義孝: 1.0000
+  安倍晋三: 1.0000
+
+Betweenness Centrality (Top 2):
+  新藤義孝: 0.0000
+  安倍晋三: 0.0000
+
+Closeness Centrality (Top 2):
+  新藤義孝: 1.0000
+  安倍晋三: 1.0000
+
+Eigenvector Centrality (Top 2):
+  新藤義孝: 0.7071
+  安倍晋三: 0.7071

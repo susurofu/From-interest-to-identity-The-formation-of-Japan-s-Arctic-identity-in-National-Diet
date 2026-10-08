@@ -1,0 +1,6 @@
+Topic 0: 環境 | 地球 | 問題 | オゾン | 温暖 | 日本 | 研究 | 観測 | 非常 | 大臣
+Topic 1: 石油 | ルート | 飛行 | プルトニウム | 輸送 | 協定 | 公団 | 通る | ノンストップ | 会社
+
+
+Topic 0: Environment | Earth | Problems | Ozone | Warmth | Japan | Research | Observation | Emergency | Minister
+Topic 1: Oil | Route | Flight | Plutonium | Transport | Agreement | Public Corporation | Passage | Nonstop | Company

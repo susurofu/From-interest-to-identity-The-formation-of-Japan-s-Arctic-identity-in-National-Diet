@@ -1,0 +1,6 @@
+Topic 0: 教育 | 研究 | 学校 | 推進 | 文化 | 進める | 支援 | 充実 | 大学 | 科学
+Topic 1: ロシア | 北極 | 航路 | 日本 | lng | 非常 | アメリカ | 気候 | プロジェクト | 参考
+Topic 2: 外交 | 強化 | 国際 | 平和 | 協力 | 安全 | 推進 | 連携 | 保障 | 日本
+
+
+<coroutine object Translator.translate at 0x32a335070>

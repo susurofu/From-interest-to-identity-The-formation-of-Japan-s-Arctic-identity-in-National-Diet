@@ -1,0 +1,75 @@
+### Communities Detected ###
+
+Community 1 (4 nodes):
+Sone Eki, Yoshiyuki Ichitarou, Kajiwara Shigeyoshi, Yoshida Housei
+
+Community 2 (1 nodes):
+Matsumoto Shichirou
+
+Community 3 (2 nodes):
+重光葵, 中山福藏
+
+Community 4 (2 nodes):
+益谷秀次, 保利茂
+
+Community 5 (2 nodes):
+田中稔男, 斎藤忠
+
+Community 6 (3 nodes):
+林坦, 相澤重明, 永野護
+
+Community 7 (3 nodes):
+永田武, 長谷川万吉, 茅誠司
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 10):
+  Yoshiyuki Ichitarou: 0.2500
+  Kajiwara Shigeyoshi: 0.1875
+  Sone Eki: 0.1875
+  Yoshida Housei: 0.1875
+  林坦: 0.1250
+  永野護: 0.1250
+  相澤重明: 0.1250
+  永田武: 0.1250
+  茅誠司: 0.1250
+  長谷川万吉: 0.1250
+
+Betweenness Centrality (Top 10):
+  Yoshiyuki Ichitarou: 0.0250
+  Kajiwara Shigeyoshi: 0.0000
+  Sone Eki: 0.0000
+  Yoshida Housei: 0.0000
+  Matsumoto Shichirou: 0.0000
+  中山福藏: 0.0000
+  重光葵: 0.0000
+  保利茂: 0.0000
+  益谷秀次: 0.0000
+  斎藤忠: 0.0000
+
+Closeness Centrality (Top 10):
+  Yoshiyuki Ichitarou: 0.2500
+  Kajiwara Shigeyoshi: 0.2000
+  Sone Eki: 0.2000
+  Yoshida Housei: 0.2000
+  Matsumoto Shichirou: 0.1429
+  林坦: 0.1250
+  永野護: 0.1250
+  相澤重明: 0.1250
+  永田武: 0.1250
+  茅誠司: 0.1250
+
+Eigenvector Centrality (Top 10):
+  Yoshiyuki Ichitarou: 0.5236
+  Kajiwara Shigeyoshi: 0.4820
+  Sone Eki: 0.4820
+  Yoshida Housei: 0.4820
+  Matsumoto Shichirou: 0.1697
+  林坦: 0.0000
+  永野護: 0.0000
+  相澤重明: 0.0000
+  永田武: 0.0000
+  茅誠司: 0.0000
+
+### Nodes Concentration ###
+Concentration: 0.32

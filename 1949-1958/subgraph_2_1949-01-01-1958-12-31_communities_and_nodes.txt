@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+益谷秀次
+
+Community 2 (1 nodes):
+保利茂
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  益谷秀次: 1.0000
+  保利茂: 1.0000
+
+Betweenness Centrality (Top 2):
+  益谷秀次: 0.0000
+  保利茂: 0.0000
+
+Closeness Centrality (Top 2):
+  益谷秀次: 1.0000
+  保利茂: 1.0000
+
+Eigenvector Centrality (Top 2):
+  益谷秀次: 0.7071
+  保利茂: 0.7071

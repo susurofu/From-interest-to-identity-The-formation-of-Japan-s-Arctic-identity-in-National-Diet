@@ -1,0 +1,6 @@
+Topic 0: 日本 | ロシア | 中国 | 問題 | 関係 | 平和 | 安全 | 外交 | 世界 | 経済
+Topic 1: 研究 | 北極 | 観測 | 科学 | 政策 | 国際 | 我が国 | 極域 | 海洋 | 技術
+Topic 2: 航路 | 北極 | 日本 | 運河 | 航行 | 港湾 | 物流 | 輸送 | 資源 | 情報
+
+
+<coroutine object Translator.translate at 0x308afd930>

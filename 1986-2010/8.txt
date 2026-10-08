@@ -1,0 +1,18 @@
+Topic 0: 地球 | 温暖 | 問題 | 上昇 | 影響 | ガス | 環境 | 上がる | 非常 | 森林
+Topic 1: ルート | 飛行 | プルトニウム | 輸送 | 協定 | 通る | ノンストップ | アメリカ | 可能 | 場合
+Topic 2: 石油 | 公団 | 会社 | 事業 | 開発 | 検査 | 損失 | 会計 | 回収 | 投融資
+Topic 3: オゾン | ホール | 南極 | 観測 | 減少 | 破壊 | 半球 | フロン | 状況 | 傾向
+Topic 4: 大雪 | 災害 | 被害 | 除雪 | 新潟 | 対策 | 救助 | 雪崩 | 積雪 | 除排雪
+Topic 5: 環境 | 社会 | 推進 | 進める | 地球 | 構築 | 経済 | 対策 | 保全 | 国民
+Topic 6: 研究 | 海洋 | 観測 | 技術 | 科学 | 地球 | 衛星 | 開発 | 調査 | 解明
+Topic 7: 日本 | 問題 | ロシア | 投棄 | 非常 | ソ連 | 原子 | 廃棄 | 国民 | 総理
+
+
+Topic 0: Earth | Warming | Problems | Rising | Impact | Gas | Environment | Rising | Emergency | Forest
+Topic 1: Route | Flight | Plutonium | Transport | Agreement | Pass | Nonstop | America | Possible | If
+Topic 2: Oil | Public Corporation | Company | Business | Development | Inspection | Loss | Accounting | Recovery | Investment and Loan
+Topic 3: Ozone | Hole | Antarctica | Observation | Decline | Destruction | Hemisphere | CFCs | Status | Trend
+Topic 4: Heavy snow | Disaster | Damage | Snow removal | Niigata | Countermeasures | Rescue | Avalanche | Snow accumulation | Snow removal
+Topic 5: Environment | Society | Promotion | Advancement | Earth | Construction | Economy | Measures | Conservation | People
+Topic 6: Research | Ocean | Observation | Technology | Science | Earth | Satellite | Development | Investigation |
+Topic 7: Japan | Problems | Russia | Dumping | Emergency | Soviet Union | Atomic | Disposal | People | Prime Minister

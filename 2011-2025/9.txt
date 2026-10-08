@@ -1,0 +1,20 @@
+Topic 0: 日本 | 中国 | 非常 | 問題 | ロシア | アメリカ | 北極 | 見る | 影響 | 意味
+Topic 1: 教育 | 学校 | 研究 | 文化 | 推進 | 支援 | 大学 | スポーツ | 充実 | 進める
+Topic 2: 研究 | 観測 | 極域 | 科学 | 北極 | 南極 | データ | 国際 | 海氷 | 地球
+Topic 3: 協定 | 漁業 | 承認 | 締結 | 公海 | 条約 | 規制 | 水域 | 求める | 中央
+Topic 4: 航路 | 北極 | 輸送 | 航行 | 利用 | 情報 | 利活用 | 海運 | 海氷 | 砕氷
+Topic 5: 外交 | 平和 | 強化 | 国際 | 協力 | 安全 | 日本 | 連携 | 関係 | 日米
+Topic 6: 海洋 | 政策 | 調査 | 北極 | 環境 | 開発 | 国際 | 資源 | 基本 | プラスチック
+Topic 7: lng | ロシア | プロジェクト | ガス | エネルギー | 供給 | 天然 | 石油 | jogmec | 出資
+Topic 8: 港湾 | 物流 | コンテナ | パナマ | 拡張 | 運河 | 太田 | 競争 | 日本 | 世界
+
+
+Topic 0: Japan | China | Emergency | Issues | Russia | America | Arctic | View | Impact | Meaning
+Topic 1: Education | School | Research | Culture | Promotion | Support | University | Sports | Enrichment | Advance
+Topic 2: Research | Observation | Polar Regions | Science | Arctic | Antarctica | Data | International | Sea Ice | Earth
+Topic 3: Agreement | Fisheries | Approval | Conclusion | High Seas | Treaty | Regulation | Waters | Request | Central
+Topic 4: Shipping routes | Arctic | Transport | Navigation | Utilization | Information | Utilization | Shipping | Sea ice | Ice breaking
+Topic 5: Diplomacy | Peace | Strengthening | International | Cooperation | Security | Japan | Cooperation | Relations | Japan-U.S.
+Topic 6: Ocean | Policy | Research | Arctic | Environment | Development | International | Resources | Basics | Plastics
+Topic 7: lng | Russia | Project | Gas | Energy | Supply | Natural | Oil | jogmec | Investment
+Topic 8: Ports | Logistics | Containers | Panama | Expansion | Canals | Ota | Competition | Japan | World

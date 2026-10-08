@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+松尾静磨
+
+Community 2 (1 nodes):
+北原秀雄
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  松尾静磨: 1.0000
+  北原秀雄: 1.0000
+
+Betweenness Centrality (Top 2):
+  松尾静磨: 0.0000
+  北原秀雄: 0.0000
+
+Closeness Centrality (Top 2):
+  松尾静磨: 1.0000
+  北原秀雄: 1.0000
+
+Eigenvector Centrality (Top 2):
+  松尾静磨: 0.7071
+  北原秀雄: 0.7071

@@ -1,0 +1,33 @@
+### Communities Detected ###
+
+Community 1 (3 nodes):
+高村正彦, 赤松正雄, 増原義剛
+
+Community 2 (1 nodes):
+浜田昌良
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 4):
+  高村正彦: 1.0000
+  赤松正雄: 0.6667
+  増原義剛: 0.6667
+  浜田昌良: 0.3333
+
+Betweenness Centrality (Top 4):
+  高村正彦: 0.6667
+  赤松正雄: 0.0000
+  増原義剛: 0.0000
+  浜田昌良: 0.0000
+
+Closeness Centrality (Top 4):
+  高村正彦: 1.0000
+  赤松正雄: 0.7500
+  増原義剛: 0.7500
+  浜田昌良: 0.6000
+
+Eigenvector Centrality (Top 4):
+  高村正彦: 0.6116
+  赤松正雄: 0.5227
+  増原義剛: 0.5227
+  浜田昌良: 0.2818

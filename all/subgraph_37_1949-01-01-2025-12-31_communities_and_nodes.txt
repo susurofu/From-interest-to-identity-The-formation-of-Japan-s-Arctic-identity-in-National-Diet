@@ -1,0 +1,25 @@
+### Communities Detected ###
+
+Community 1 (1 nodes):
+坂本哲志
+
+Community 2 (1 nodes):
+江藤拓
+
+### Top Key Nodes by Centrality ###
+
+Degree Centrality (Top 2):
+  坂本哲志: 1.0000
+  江藤拓: 1.0000
+
+Betweenness Centrality (Top 2):
+  坂本哲志: 0.0000
+  江藤拓: 0.0000
+
+Closeness Centrality (Top 2):
+  坂本哲志: 1.0000
+  江藤拓: 1.0000
+
+Eigenvector Centrality (Top 2):
+  坂本哲志: 0.7071
+  江藤拓: 0.7071
